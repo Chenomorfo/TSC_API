@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Zombie",
+    "descripcion": "Zombie (Japanese: アンデット Andetto, 'Undead') is a Type of monster representing undead beings, including mummies, skeletons, vampires and often ghosts (though sometimes spirits fall under other Types). Later zombies also represented Yokais and biologically infected human beings and animals"
+  },
+  {
+    "name": "Plant",
+    "descripcion": "Plant (植しょく物ぶつ Shokubutsu) monsters were very overlooked and weak until support for the Type was released in the Crossroads of Chaos, Crimson Crisis and Raging Battle booster sets. A general strategy for Plant Decks is to use cards like 'Gigaplant', 'Lonefire Blossom' and 'Lord Poison' to fill the field with powerful monsters. They can go hand-in-hand with Insect-Types as well with cards like 'Prickle Fairy'."
+  },
+  {
+    "name": "Dragon",
+    "descripcion": "Dragon (ドラゴン Doragon) is a Type of Monster representing mythological serpentine, reptile, avian like beings that are typically fire-breathing creatures that symbolize chaos, brutality, fierceness and intimidation."
+  },
+  {
+    "name": "Dinosaur",
+    "descripcion": "Dinosaur (Japanese: 恐きょう竜りゅう Kyōryū) is a type of monster that primarily relies on beatdown tactics and sometimes Monster effects, to help a Duelist prevail in a Duel. There are many high-level Dinosaur-Type monsters, so the general strategy for them is to Summon their high-Level monsters as quickly as possible using cards like 'Hunting Instinct' or 'Big Evolution Pill', overpowering the opponent's weaker monsters before they have a chance to defend themselves."
+  },
+  {
+    "name": "Warrior",
+    "descripcion": "Warrior (戦せん士し Senshi) is a diverse, versatile, and popular Type of Monster Card. There are Warriors of every Attribute, primarily EARTH, DARK and LIGHT. The Warrior-Type is the most human-like Type of monster, consisting of many human knights, brawlers, rogues, etc."
+  },
+  {
+    "name": "Winged Beast",
+    "descripcion": "Winged Beast (鳥ちょう獣じゅう Chōjū 'Avian Beast') monsters represent creatures of flight such as birds or bats. The 'Harpie' archetype, one of the most renowned, is comprised primarily of Winged Beasts. The 'Blackwing' archetype is composed of DARK Winged Beast-Type monsters that were first released in Crimson Crisis, with further support in Raging Battle and Ancient Prophecy. "
+  },
+  {
+    "name": "Beast-Warrior",
+    "descripcion": "Beast-Warrior (Japanese: 獣じゅう戦せん士し Jūsenshi) is a Type of monster that usually resembles anthropomorphic animals or other half-man, half-animal creatures such as centaurs. Their effects generally apply after destroying a monster, and help them destroy monsters more easily. Many of their effects also deal with Normal Monsters. "
+  },
+  {
+    "name": "Spellcaster",
+    "descripcion": "Spellcaster (Japanese: 魔ま法ほう使つかい Mahōtsukai 'Magician') is a Type consisting of beings that control magic, such as witches, wizards, and mages. The majority of these creatures contain effects and can be very versatile Monsters, used often with support of Spell Cards. Out of all types, Spellcasters are the most present on the current Forbidden and Limited lists."
+  },
+  {
+    "name": "Fiend",
+    "descripcion": "Fiend (悪あく魔ま Akuma 'Demon') is a monster Type symbolizing darkness, wickedness, perniciousness, and diabolical horror. They are often demons, devils or ghosts, and are almost exclusively DARK-Attribute."
+  },
+  {
+    "name": "Beast",
+    "descripcion": "Beast (Japanese: 獣けもの Kemono) is a Type of monster consisting mainly of wild animals. They are typically EARTH Attribute monsters, although LIGHT and FIRE monsters of this type are not uncommon. Beast-Type monsters are often overlooked, but often have great utility. Because they are relatively low in number compared to more popular monster types, there is not one specific theme or strategy common to them, though many have effects that assist them during the Battle Phase."
+  },
+  {
+    "name": "Rock",
+    "descripcion": "Rock (岩がん石せき Ganseki) monsters are an often-overlooked Type, though there were many released in The Lost Millennium. Usually, Rock monsters belong to the EARTH Attribute and possess high DEF and defense-related card effects. A significant number of Rock monsters have effects related to Flip Summoning or have the ability to flip themselves face-down again."
+  },
+  {
+    "name": "Pyro",
+    "descripcion": "Pyro (炎ほのお Honō 'Fire' or 'Flame') is a Type of monster that is almost always of the FIRE Attribute, and represent control over FIRE, or they may be an embodiment of fire itself. Their effects often involve the dealing of effect damage to the opponent. They are used by Axel Brodie in the anime."
+  },
+  {
+    "name": "Thunder",
+    "descripcion": "Thunder (雷いかずち Ikazuchi) monsters are generally LIGHT, although there are EARTH, WATER or WIND minorities as well. Thunder monsters usually represent beings with control over electricity. Many Thunder monsters' card effects and support cards focus on destroying the opponent's monsters by effect."
+  },
+  {
+    "name": "Insect",
+    "descripcion": "Insect (Japanese: 昆こん虫ちゅう Konchū) monsters are a versatile, and somewhat well-supported Type of Monster that go hand-in-hand with Plant-Type monsters. The common attributes associated with them are EARTH and WIND. They typically act like their namesake by swarming the field, and can sometimes prove to be quite an annoyance to players by using their unique abilities."
+  },
+  {
+    "name": "Reptile",
+    "descripcion": "Reptile (Japanese: 爬は虫ちゅう類るい Hachūrui) is a Type of monster used by Thelonious Viper, Misty Tredwell and Yuga Goha in the anime, as well as Seika Kohinata and Jim Crocodile Cook in the manga. Reptile monsters were once one of the most overlooked and undersupported types, their only real use previously being Tribute fodder for 'Ultra Evolution Pill'. However, with the release of the 'Alien' and 'Venom' archetypes, Reptiles have come into their own as a Type that focuses on controlling the opponent with the use of Counters."
+  },
+  {
+    "name": "Fish",
+    "descripcion": "Fish (魚さかな Sakana) is a Type of Monster Card. Fish-Type monsters are used by Reginald Kastle, Ren and Nanami Maguro. In the past it had very little support, but it received support in Tactical Evolution, Phantom Darkness, The Duelist Genesis, Crimson Crisis, and Generation Force."
+  },
+  {
+    "name": "",
+    "descripcion": ""
+  },
+  {
+    "name": "",
+    "descripcion": ""
+  }
+]

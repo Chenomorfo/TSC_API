@@ -21,13 +21,15 @@
     Summon: "",
   };
 
+  let isGod = Details.Id === 832 || Details.Id === 833 || Details.Id === 834;
+
   const setBgColor = (Id = 0, type = "") => {
-    if (Id === 832 || Id === 833 || Id === 834) return GodColor.get(Id);
+    if (isGod) return GodColor.get(Id);
 
     return bgColor.get(type);
   };
   const setDescColor = (Id = 0, type = "") => {
-    if (Id === 832 || Id === 833 || Id === 834) return GodDescColor.get(Id);
+    if (isGod) return GodDescColor.get(Id);
 
     return descColor.get(type);
   };
@@ -38,10 +40,7 @@
     Details.Id,
     Details.MonsterType
   )} color:black; background-size:cover;"
-  class={Details.Id === 832 || Details.Id === 833 || Details.Id === 834
-    ? "God"
-    : null}
->
+  class={isGod ? "God" : null}>
   <div style={setDescColor(Details.Id, Details.MonsterType)}>
     <h3>{Details.Name}</h3>
     <h3>{Details.Summon}</h3>
@@ -76,7 +75,6 @@
     place-items: center;
     padding: 5px;
   }
-
   img {
     background-color: green;
     margin: auto;
