@@ -1,0 +1,1018 @@
+[
+  {
+    "Id": 301,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Legendary Sword",
+    "Description": "An enchanted sword that can draw out the powers of a warrior. It cannot be used by those aligned with darkness.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872261/TSC/TSC_301.jpg"
+  },
+  {
+    "Id": 302,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Sword of Dark Destruction",
+    "Description": "A malevolent sword that ups the power of a dark-type being. It can only used by those who have sold their souls to darkness.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872425/TSC/TSC_302.png"
+  },
+  {
+    "Id": 303,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Dark Energy",
+    "Description": "A tainted energy for fiends that makes them powerful. It powers up a dark being by 500 points.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872266/TSC/TSC_303.jpg"
+  },
+  {
+    "Id": 304,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Axe of Despair",
+    "Description": "A corrupt axe that has the face of a fiend placed on it. It maximizes the power of a fiend, beast warrior, etc.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872279/TSC/TSC_304.jpg"
+  },
+  {
+    "Id": 305,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Laser Cannon Armor",
+    "Description": "A mechanical suit of armor that is fitted with a laser cannon. If equipped by an insect, etc., it can fire powerful beams.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872266/TSC/TSC_305.jpg"
+  },
+  {
+    "Id": 306,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Insect Armor with Laser Cannon",
+    "Description": "A mechanical suit of armor that is fitted with a flame thrower. If equipped by an insect, etc., it can shoot intense flames.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872259/TSC/TSC_306.jpg"
+  },
+  {
+    "Id": 307,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Elf's Light",
+    "Description": "An enchanted light that is cast by benign beings such as fairies. The sacred light powers up an elf, etc., when it is equipped.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872289/TSC/TSC_307.jpg"
+  },
+  {
+    "Id": 308,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Beast Fangs",
+    "Description": "A viciously arranged set of fangs that can enhance power. It is only useful on a monster with fangs such as a beast.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872266/TSC/TSC_308.jpg"
+  },
+  {
+    "Id": 309,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Steel Shell",
+    "Description": "A tortoiselike shell that is made out of rugged steel. It powers up only a monster that has a shell to begin with.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872277/TSC/TSC_309.jpg"
+  },
+  {
+    "Id": 310,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Vile Germs",
+    "Description": "A swarm of giant germs with eyes that was created by fiends. It can be used to power up a forest plant.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872266/TSC/TSC_310.jpg"
+  },
+  {
+    "Id": 311,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Black Pendant",
+    "Description": "A mystical pendant that features a purplish gemstone. When it is equipped, it powers up a dark magician, etc.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872393/TSC/TSC_311.jpg"
+  },
+  {
+    "Id": 312,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Silver Bow and Arrow",
+    "Description": "An enchanted set of bow and arrows that is crafted out of silver. When it is equipped, it powers up a fairy, etc.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872284/TSC/TSC_312.jpg"
+  },
+  {
+    "Id": 313,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Horn of Light",
+    "Description": "A glowing horn that is used to power up a horned being. It has no effect on dark monsters.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872243/TSC/TSC_313.jpg"
+  },
+  {
+    "Id": 314,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Horn of the Unicorn",
+    "Description": "A spiraling horn that can boost power when it is equipped. It is usable only by a dark monster with a horn on its head.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872245/TSC/TSC_314.jpg"
+  },
+  {
+    "Id": 315,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Dragon Treasure",
+    "Description": "An enormous crystal that is a legendary treasure among dragons. It is said to be able to power up any dragon.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872386/TSC/TSC_315.jpg"
+  },
+  {
+    "Id": 316,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Electro-Whip",
+    "Description": "A sharply tipped, electrified whip that stuns the victim. It powers up a designated character such as a female warrior.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872250/TSC/TSC_316.jpg"
+  },
+  {
+    "Id": 317,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Cyber Shield",
+    "Description": "A piece of body armor that is made exclusively for females. It alters the wearer's personality and powers her up.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872255/TSC/TSC_317.jpg"
+  },
+  {
+    "Id": 318,
+    "CardType": "Magic",
+    "Deck_Cost": 2,
+    "Name": "Elegant Egotist",
+    "Description": "A magical kaleidoscope that works with a Harpie Lady. It triples a Harpie Lady into Harpie Lady Sisters.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872291/TSC/TSC_318.jpg"
+  },
+  {
+    "Id": 319,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Mystical Moon",
+    "Description": "A jaundiced full moon whose rays arouse savage spirits. Its supernatural force powers up a beast, etc.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872284/TSC/TSC_319.jpg"
+  },
+  {
+    "Id": 320,
+    "CardType": "Magic",
+    "Deck_Cost": 10,
+    "Name": "Stop Defense",
+    "Description": "A spell card that makes all enemy monsters capable of only attacking on the next turn, and thus not able to defend themselves.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872401/TSC/TSC_320.jpg"
+  },
+  {
+    "Id": 321,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Malevolent Nuzzler",
+    "Description": "The kiss of a female fiend that darkly empowers the recipient. It works on a female or a dark monster, etc.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872864/TSC/TSC_321.jpg"
+  },
+  {
+    "Id": 322,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Violet Crystal",
+    "Description": "A beautiful, violet-colored crystal that holds a mystic power. It can power up a chosen monster such as a zombie.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872250/TSC/TSC_322.jpg"
+  },
+  {
+    "Id": 323,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Book of Secret Arts",
+    "Description": "A magically charged book that powers up a magician, etc. It cannot be read by anyone with evil in their heart.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872397/TSC/TSC_323.jpg"
+  },
+  {
+    "Id": 324,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Invigoration",
+    "Description": "A blast of energy that can power up a designated monster. It will work on a thunder, rock or pyro monster.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872393/TSC/TSC_324.jpg"
+  },
+  {
+    "Id": 325,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Machine Conversion Factory",
+    "Description": "A machining factory that converts and modifies all machinery. It can be used to power up a chosen machine.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872392/TSC/TSC_325.jpg"
+  },
+  {
+    "Id": 326,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Raise Body Heat",
+    "Description": "A spell card that absorbs solar energy to empower a monster. It works on a designated dinosaur, etc.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872284/TSC/TSC_326.jpg"
+  },
+  {
+    "Id": 327,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Follow Wind",
+    "Description": "A spell card of a wind that empowers a designated monster. It works on a flying monster such as a bird beast.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872412/TSC/TSC_327.jpg"
+  },
+  {
+    "Id": 328,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Power of Kaishin",
+    "Description": "A spell card of a trident that powers up a monster of the sea. It can be used on an aqua, fish or sea dragon type.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872242/TSC/TSC_328.jpg"
+  },
+  {
+    "Id": 329,
+    "CardType": "Magic",
+    "Deck_Cost": 15,
+    "Name": "Dragon Capture Jar",
+    "Description": "An enchanted jar that is irresistible to any kind of dragon. It will suck in every dragon on the opponent's field.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872286/TSC/TSC_329.jpg"
+  },
+  {
+    "Id": 330,
+    "CardType": "Magic",
+    "Deck_Cost": 40,
+    "Name": "Forest",
+    "Description": "A spell card that changes the field into a verdant forest. It benefits plants, beast warriors, insects and beasts.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872414/TSC/TSC_330.jpg"
+  },
+  {
+    "Id": 331,
+    "CardType": "Magic",
+    "Deck_Cost": 40,
+    "Name": "Wasteland",
+    "Description": "A spell card that changes the field into a desolate wasteland. It benefits the zombies, dinosaurs and rock-type monsters.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872274/TSC/TSC_331.jpg"
+  },
+  {
+    "Id": 332,
+    "CardType": "Magic",
+    "Deck_Cost": 40,
+    "Name": "Mountain",
+    "Description": "A spell card that changes the field into a craggy mountain. It benefits dragons, wing beasts and thunder-type monsters.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872865/TSC/TSC_332.jpg"
+  },
+  {
+    "Id": 333,
+    "CardType": "Magic",
+    "Deck_Cost": 40,
+    "Name": "Sogen",
+    "Description": "A spell card that changes the field into a grassy meadow. It benefits beast warriors and warriors.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872247/TSC/TSC_333.jpg"
+  },
+  {
+    "Id": 334,
+    "CardType": "Magic",
+    "Deck_Cost": 40,
+    "Name": "Umi",
+    "Description": "Transforms the field into a sea. It benefits aqua, thunder and sea dragon types and disadvantages machines and pyro monster",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872273/TSC/TSC_334.jpg"
+  },
+  {
+    "Id": 335,
+    "CardType": "Magic",
+    "Deck_Cost": 40,
+    "Name": "Yami",
+    "Description": "Transforms the field into darkness. It benefits magicians and fiends, and disadvantages fairies.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872257/TSC/TSC_335.jpg"
+  },
+  {
+    "Id": 336,
+    "CardType": "Magic",
+    "Deck_Cost": 40,
+    "Name": "Dark Hole",
+    "Description": "A vortex of darkness that draws in all beings without mercy. It destroys every monster on the field.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872268/TSC/TSC_336.png"
+  },
+  {
+    "Id": 337,
+    "CardType": "Magic",
+    "Deck_Cost": 50,
+    "Name": "Raigeki",
+    "Description": "An immense thunderbolt that strikes with intense power. It destroys every monster on the foe's field.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872283/TSC/TSC_337.png"
+  },
+  {
+    "Id": 338,
+    "CardType": "Magic",
+    "Deck_Cost": 0,
+    "Name": "Mooyan Curry",
+    "Description": "A succulent beef curry that boasts a restorative power. It restores the player's LP by 200.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872234/TSC/TSC_338.jpg"
+  },
+  {
+    "Id": 339,
+    "CardType": "Magic",
+    "Deck_Cost": 5,
+    "Name": "Red Medicine",
+    "Description": "A medicinal potion that has a fair restorative power. It restores the player's LP by 500.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872282/TSC/TSC_339.jpg"
+  },
+  {
+    "Id": 340,
+    "CardType": "Magic",
+    "Deck_Cost": 15,
+    "Name": "Goblin's Secret Remedy",
+    "Description": "A medicine carried by goblins with a restorative power. It restores the player's LP by 1,000.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872267/TSC/TSC_340.jpg"
+  },
+  {
+    "Id": 341,
+    "CardType": "Magic",
+    "Deck_Cost": 50,
+    "Name": "Soul of the Pure",
+    "Description": "The blood of a fairy that she collected by injuring herself. It restores the player's LP by 2,000.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872250/TSC/TSC_341.jpg"
+  },
+  {
+    "Id": 342,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Dian Keto the Cure Master",
+    "Description": "A kindly deity that heals players of any kind of injury. It restores the player's LP by 5,000.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872287/TSC/TSC_342.jpg"
+  },
+  {
+    "Id": 343,
+    "CardType": "Magic",
+    "Deck_Cost": 0,
+    "Name": "Sparks",
+    "Description": "An attacking spell card that showers the foe with embers. It inflicts 50LP damage directly on the opponent.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872261/TSC/TSC_343.jpg"
+  },
+  {
+    "Id": 344,
+    "CardType": "Magic",
+    "Deck_Cost": 5,
+    "Name": "Hinotama",
+    "Description": "An attacking spell card that strikes the foe with fireballs. It inflicts 100LP damage directly on the opponent.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872224/TSC/TSC_344.jpg"
+  },
+  {
+    "Id": 345,
+    "CardType": "Magic",
+    "Deck_Cost": 15,
+    "Name": "Final Flame",
+    "Description": "A spell card that condemns the foe to a burning at the stake. It inflicts 200LP damage directly on the opponent.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872280/TSC/TSC_345.jpg"
+  },
+  {
+    "Id": 346,
+    "CardType": "Magic",
+    "Deck_Cost": 50,
+    "Name": "Ookazi",
+    "Description": "A spell card that ignites a huge blaze that burns all day. It inflicts 500LP damage directly on the opponent.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872281/TSC/TSC_346.jpg"
+  },
+  {
+    "Id": 347,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Tremendous Fire",
+    "Description": "A spell card that ignites an inferno of ferocious intensity. It inflicts 1000LP damage directly on the opponent.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872278/TSC/TSC_347.jpg"
+  },
+  {
+    "Id": 348,
+    "CardType": "Magic",
+    "Deck_Cost": 200,
+    "Name": "Swords of Revealing Light",
+    "Description": "A spell that reveals all the foe's monsters over three turns. The opposing monsters are prevented from attacking over that time.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872283/TSC/TSC_348.png"
+  },
+  {
+    "Id": 349,
+    "CardType": "Magic",
+    "Deck_Cost": 75,
+    "Name": "Spellbinding Circle",
+    "Description": "A magical six-pointed star that lays a debilitating curse. It lowers the power of all opposing monsters on the field.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872411/TSC/TSC_349.jpg"
+  },
+  {
+    "Id": 350,
+    "CardType": "Magic",
+    "Deck_Cost": 0,
+    "Name": "Dark-Piercing Light",
+    "Description": "A spell that casts a dazzling blaze of light over the opponent. It reveals every opposing monster on the field.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872257/TSC/TSC_350.jpg"
+  },
+  {
+    "Id": 583,
+    "CardType": "Trap",
+    "Deck_Cost": 50,
+    "Name": "Destiny Board",
+    "Description": "\"A spectral figure that joins others to bring doom to foes. Victory is automatic if the \"\"FINAL\"\" message is completed.\"",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872263/TSC/TSC_583.webp"
+  },
+  {
+    "Id": 584,
+    "CardType": "Trap",
+    "Deck_Cost": 50,
+    "Name": "\"Spirit Message \"\"I\"\"\"",
+    "Description": "\"A spectral figure that joins others to bring doom to foes. Victory is automatic if the \"\"FINAL\"\" message is completed.\"",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872262/TSC/TSC_584.jpg"
+  },
+  {
+    "Id": 585,
+    "CardType": "Trap",
+    "Deck_Cost": 50,
+    "Name": "\"Spirit Message \"\"N\"\"\"",
+    "Description": "\"A spectral figure that joins others to bring doom to foes. Victory is automatic if the \"\"FINAL\"\" message is completed.\"",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872257/TSC/TSC_585.jpg"
+  },
+  {
+    "Id": 586,
+    "CardType": "Trap",
+    "Deck_Cost": 50,
+    "Name": "\"Spirit Message \"\"A\"\"\"",
+    "Description": "\"A spectral figure that joins others to bring doom to foes. Victory is automatic if the \"\"FINAL\"\" message is completed.\"",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872775/TSC/TSC_586.jpg"
+  },
+  {
+    "Id": 587,
+    "CardType": "Trap",
+    "Deck_Cost": 50,
+    "Name": "\"Spirit Message \"\"L\"\"\"",
+    "Description": "\"A spectral figure that joins others to bring doom to foes. Victory is automatic if the \"\"FINAL\"\" message is completed.\"",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872248/TSC/TSC_587.jpg"
+  },
+  {
+    "Id": 651,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Kunai with Chain",
+    "Description": "A bladed weapon on a chain that is very easy to use. It can be equipped by any warrior to boost attack power.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872283/TSC/TSC_651.jpg"
+  },
+  {
+    "Id": 652,
+    "CardType": "Magic",
+    "Deck_Cost": 75,
+    "Name": "Magical Labyrinth",
+    "Description": "An equipment card that only works with a Labyrinth Wall. It strongly enhances the card that equips it.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872425/TSC/TSC_652.jpg"
+  },
+  {
+    "Id": 653,
+    "CardType": "Magic",
+    "Deck_Cost": 15,
+    "Name": "Warrior Elimination",
+    "Description": "A spell that exacts a terrible toll on warrior-type beings. On use, it destroys all warriors on the field.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872405/TSC/TSC_653.jpg"
+  },
+  {
+    "Id": 654,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Salamandra",
+    "Description": "An equipment card that has the power of a wicked fiery monster. It can power up any pyro-type monster.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872406/TSC/TSC_654.jpg"
+  },
+  {
+    "Id": 655,
+    "CardType": "Magic",
+    "Deck_Cost": 2,
+    "Name": "Cursebreaker",
+    "Description": "Negates any level-reducing spell used on the player's monsters. It restores the levels of the player's monsters on the field.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872392/TSC/TSC_655.jpg"
+  },
+  {
+    "Id": 656,
+    "CardType": "Magic",
+    "Deck_Cost": 15,
+    "Name": "Eternal Rest",
+    "Description": "A spell that brings everlasting peace to all forms of zombies. It destroys all zombies on the opponent's field.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872404/TSC/TSC_656.jpg"
+  },
+  {
+    "Id": 657,
+    "CardType": "Magic",
+    "Deck_Cost": 255,
+    "Name": "Megamorph",
+    "Description": "A spell that gigantically transforms a monster on the field. The chosen monster is made much more powerful.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872426/TSC/TSC_657.jpg"
+  },
+  {
+    "Id": 658,
+    "CardType": "Magic",
+    "Deck_Cost": 2,
+    "Name": "Metalmorph",
+    "Description": "A card that metalizes certain kinds of monsters on the field. The chosen monster is made into a machine.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872427/TSC/TSC_658.png"
+  },
+  {
+    "Id": 659,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Winged Trumpeter",
+    "Description": "A fairy on a trumpet, whose sweet notes ring clearly far away. It uplifts and powers up a fairy.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872753/TSC/TSC_659.jpg"
+  },
+  {
+    "Id": 660,
+    "CardType": "Magic",
+    "Deck_Cost": 15,
+    "Name": "Stain Storm",
+    "Description": "Acid rain caused by air pollution that is ruinous to machines. It destroys all machines on the foe's field.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872767/TSC/TSC_660.png"
+  },
+  {
+    "Id": 661,
+    "CardType": "Magic",
+    "Deck_Cost": 25,
+    "Name": "Crush Card",
+    "Description": "The scourge of all high-power monsters out on the field. It destroys all enemy monsters with ATK of minimum 1500.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872394/TSC/TSC_661.jpg"
+  },
+  {
+    "Id": 662,
+    "CardType": "Magic",
+    "Deck_Cost": 15,
+    "Name": "Eradicating Aerosol",
+    "Description": "An aerosol insecticide that brings instant ruin to bugs. It destroys every insect on the foe's field.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872776/TSC/TSC_662.png"
+  },
+  {
+    "Id": 663,
+    "CardType": "Magic",
+    "Deck_Cost": 15,
+    "Name": "Breath of Light",
+    "Description": "An ethereal wind whose caress erodes rock types to mere dust. It destroys every rock monster on the foe's field.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872755/TSC/TSC_663.jpg"
+  },
+  {
+    "Id": 664,
+    "CardType": "Magic",
+    "Deck_Cost": 15,
+    "Name": "Eternal Drought",
+    "Description": "A spell that leaves the land parched and ruined for all fish. It destroys every fish on the opponent's field.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872757/TSC/TSC_664.jpg"
+  },
+  {
+    "Id": 665,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Curse of Millennium Shield",
+    "Description": "A ritual for summoning a tough shield in return for a tribute. For this ritual, a One-Eyed Shield Dragon, etc., is needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872395/TSC/TSC_665.png"
+  },
+  {
+    "Id": 666,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Yamadron Ritual",
+    "Description": "A ritual for summoning a Yamadron in return for a tribute. For this ritual, a Mountain Warrior, etc., is needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872762/TSC/TSC_666.png"
+  },
+  {
+    "Id": 667,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Gate Guardian Ritual",
+    "Description": "A ritual for summoning a Gate Guardian in return for tributes. For this ritual, Sanga, Kazejin, and Suijin are needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872754/TSC/TSC_667.jpg"
+  },
+  {
+    "Id": 668,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Bright Castle",
+    "Description": "A spell book containing a castle that looses a vivid light. The dazzling light powers up a light monster.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872777/TSC/TSC_668.jpg"
+  },
+  {
+    "Id": 669,
+    "CardType": "Magic",
+    "Deck_Cost": 150,
+    "Name": "Shadow Spell",
+    "Description": "A spell that weakens all the monsters on the foe's field. Every enemy monster's level is lowered by two.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872763/TSC/TSC_669.jpg"
+  },
+  {
+    "Id": 670,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Black Luster Ritual",
+    "Description": "A ritual for summoning a Black Luster Soldier with tributes. For this ritual, a Gaia the Fierce Knight, etc., is needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872761/TSC/TSC_670.jpg"
+  },
+  {
+    "Id": 671,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Zera Ritual",
+    "Description": "A ritual for summoning a Zera the Mant in return for a tribute. For this ritual, a Ryu-Kishin Powered, etc., is needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872251/TSC/TSC_671.jpg"
+  },
+  {
+    "Id": 672,
+    "CardType": "Magic",
+    "Deck_Cost": 2,
+    "Name": "Harpie's Feather Duster",
+    "Description": "A feather duster that is made from a Harpie Lady's feather. It sweeps away all spell and trap cards on the foe's field.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872277/TSC/TSC_672.png"
+  },
+  {
+    "Id": 673,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "War-Lion Ritual",
+    "Description": "A ritual for summoning a Super War-Lion in return for tributes. For this ritual, two monsters and a Leogun are needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872780/TSC/TSC_673.jpg"
+  },
+  {
+    "Id": 674,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Beastly Mirror Ritual",
+    "Description": "A ritual for summoning a Fiend's Mirror in return for tributes. For this, two monsters and a Fiend Reflection #1 are needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872228/TSC/TSC_674.jpg"
+  },
+  {
+    "Id": 675,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Ultimate Dragon",
+    "Description": "Summons a Blue-Eyes Ultimate Dragon with tributes. For this ritual, three Blue-Eyes White Dragons are needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872227/TSC/TSC_675.jpg"
+  },
+  {
+    "Id": 676,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Commencement Dance",
+    "Description": "A ritual for summoning a Performance of Sword with a tribute. For this ritual, a Water Omotics, etc., is needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872762/TSC/TSC_676.webp"
+  },
+  {
+    "Id": 677,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Hamburger Recipe",
+    "Description": "A ritual for summoning a Hungry Burger in return for a tribute. For this ritual, a Bio Plant, etc., is needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872761/TSC/TSC_677.jpg"
+  },
+  {
+    "Id": 678,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Revival of Sennen Genjin",
+    "Description": "A ritual for summoning a Sengenjin in return for tributes. For this, two monsters and a Hitotsu-Me Giant are needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872225/TSC/TSC_678.jpg"
+  },
+  {
+    "Id": 679,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Novox's Prayer",
+    "Description": "A ritual for summoning a Skull Guardian in return for a tribute. For this ritual, an M-Warrior #1, etc., is needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872792/TSC/TSC_679.jpg"
+  },
+  {
+    "Id": 680,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Curse of Tri-Horned Dragon",
+    "Description": "A ritual for summoning a Tri-Horned Dragon with a tribute. For this ritual, a B. Dragon Jungle King, etc., is needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872757/TSC/TSC_680.jpg"
+  },
+  {
+    "Id": 681,
+    "CardType": "Trap",
+    "Deck_Cost": 0,
+    "Name": "House of Adhesive Tape",
+    "Description": "A trap card that is deadly to low-powered monsters that attack it. If the monster's ATK is 500 or lower, the trap wipes it out.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872755/TSC/TSC_681.jpg"
+  },
+  {
+    "Id": 682,
+    "CardType": "Trap",
+    "Deck_Cost": 1,
+    "Name": "Eatgaboon",
+    "Description": "A trap card that is deadly to mid-powered monsters that attack it. If the monster's ATK is 1,000 or less, the trap wipes it out.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872761/TSC/TSC_682.jpg"
+  },
+  {
+    "Id": 683,
+    "CardType": "Trap",
+    "Deck_Cost": 2,
+    "Name": "Bear Trap",
+    "Description": "A trap card that is deadly to stronger monsters that attack it. If the monster's ATK is 1,500 or less, the trap wipes it out.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872235/TSC/TSC_683.png"
+  },
+  {
+    "Id": 684,
+    "CardType": "Trap",
+    "Deck_Cost": 5,
+    "Name": "Invisible Wire",
+    "Description": "A trap card that is deadly to strong monsters that attack it. If the monster's ATK is 2,000 or less, the trap wipes it out.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872384/TSC/TSC_684.jpg"
+  },
+  {
+    "Id": 685,
+    "CardType": "Trap",
+    "Deck_Cost": 10,
+    "Name": "Acid Trap Hole",
+    "Description": "A trap card that is deadly to any monster that attacks it. If the monster's ATK is 3,000 or less, the trap wipes it out.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872760/TSC/TSC_685.jpg"
+  },
+  {
+    "Id": 686,
+    "CardType": "Trap",
+    "Deck_Cost": 20,
+    "Name": "Widespread Ruin",
+    "Description": "A trap card that is deadly to any monster that attacks it. It explodes as soon as it is attacked, destroying the monster.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872760/TSC/TSC_686.jpg"
+  },
+  {
+    "Id": 687,
+    "CardType": "Trap",
+    "Deck_Cost": 2,
+    "Name": "Goblin Fan",
+    "Description": "A trap card that reflects a direct LP attack back at the foe. It works on attack spells like Sparks and Tremendous Fire.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872764/TSC/TSC_687.jpg"
+  },
+  {
+    "Id": 688,
+    "CardType": "Trap",
+    "Deck_Cost": 2,
+    "Name": "Bad Reaction to Simochi",
+    "Description": "A trap card that reverses the effect of any healing spell card. If a healing card is used, it injures the user.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872236/TSC/TSC_688.jpg"
+  },
+  {
+    "Id": 689,
+    "CardType": "Trap",
+    "Deck_Cost": 2,
+    "Name": "Reverse Trap",
+    "Description": "A trap card that reverses the effect of any power-up card. If a power-up card is used, it cuts power instead.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872757/TSC/TSC_689.jpg"
+  },
+  {
+    "Id": 690,
+    "CardType": "Trap",
+    "Deck_Cost": 0,
+    "Name": "Fake Trap",
+    "Description": "A fake trap card that is intended only to fool the opponent. Nothing happens if it is attacked.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872766/TSC/TSC_690.jpg"
+  },
+  {
+    "Id": 691,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Revived Serpent Night Dragon",
+    "Description": "A ritual for summoning a Serpent Night Dragon with a tribute. For this, a Darkfire Dragon, etc., is needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872241/TSC/TSC_691.jpg"
+  },
+  {
+    "Id": 692,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Turtle Oath",
+    "Description": "A ritual for summoning a Crab Turtle in return for a tribute. This ritual requires a 30,000-Year White Turtle, etc.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872763/TSC/TSC_692.jpg"
+  },
+  {
+    "Id": 693,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Contract of Mask",
+    "Description": "A ritual for summoning a Mask of Shine & Dark with tributes. For this, two monsters and a Mask of Darkness are needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872235/TSC/TSC_693.jpg"
+  },
+  {
+    "Id": 694,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Resurrection of Chakra",
+    "Description": "A ritual for summoning a Chakra in return for a tribute. For this, a Versago the Destroyer, etc., is needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872274/TSC/TSC_694.jpg"
+  },
+  {
+    "Id": 695,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Puppet Ritual",
+    "Description": "A ritual for summoning a Psycho-Puppet in return for a tribute. For this, a Mysterious Puppeteer, etc., is needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872777/TSC/TSC_695.png"
+  },
+  {
+    "Id": 696,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Javelin Beetle Pact",
+    "Description": "A ritual for summoning a Javelin Beetle in return for a tribute. For this ritual, a Hercules Beetle, etc., is needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872254/TSC/TSC_696.jpg"
+  },
+  {
+    "Id": 697,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Garma Sword Oath",
+    "Description": "A ritual for summoning a Garma Sword in return for tributes. For this, two monsters and a Succubus Knight are needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872767/TSC/TSC_697.jpg"
+  },
+  {
+    "Id": 698,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Cosmo Queen's Prayer",
+    "Description": "A ritual for summoning a Cosmo Queen in return for a tribute. For this, a Queen of Autumn Leaves, etc., is needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872755/TSC/TSC_698.jpg"
+  },
+  {
+    "Id": 699,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Revival of Dokurorider",
+    "Description": "A ritual for summoning a Dokurorider in return for tributes. For this, two monsters and a Temple of Skulls are needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872241/TSC/TSC_699.jpg"
+  },
+  {
+    "Id": 700,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Fortress Whale's Oath",
+    "Description": "A ritual for summoning a Fortress Whale with tributes. For this, two monsters and a Mech Bass are needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872237/TSC/TSC_700.jpg"
+  },
+  {
+    "Id": 722,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Dark Magic Ritual",
+    "Description": "Summons a Magician of Black Chaos in return for a tribute. For this, a Dark Magician, etc., is needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872266/TSC/TSC_722.jpg"
+  },
+  {
+    "Id": 781,
+    "CardType": "Magic",
+    "Deck_Cost": 200,
+    "Name": "Brain Control",
+    "Description": "A spell that can take over a monster on the opponent's field. The affected monster is put under control until the turn ends.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872236/TSC/TSC_781.jpg"
+  },
+  {
+    "Id": 782,
+    "CardType": "Trap",
+    "Deck_Cost": 20,
+    "Name": "Anti Raigeki",
+    "Description": "A trap card that protects the player's monsters from Raigeki. Instead, it destroys all the monsters on the foe's field.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872263/TSC/TSC_782.jpg"
+  },
+  {
+    "Id": 783,
+    "CardType": "Ritual",
+    "Deck_Cost": 0,
+    "Name": "Black Illusion Ritual",
+    "Description": "A ritual for summoning a Relinquished in return for a tribute. For this, a Dark-Eyes Illusionist, etc., is needed.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872781/TSC/TSC_783.png"
+  },
+  {
+    "Id": 784,
+    "CardType": "Magic",
+    "Deck_Cost": 255,
+    "Name": "Change of Heart",
+    "Description": "A spell that can take over a monster on the opponent's field. The affected monster is put under control.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872257/TSC/TSC_784.jpg"
+  },
+  {
+    "Id": 785,
+    "CardType": "Magic",
+    "Deck_Cost": 100,
+    "Name": "Multiply",
+    "Description": "A spell that causes a Kuriboh on the player's field to multiply. The monster and its copies fill the field completely.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872246/TSC/TSC_785.jpg"
+  },
+  {
+    "Id": 786,
+    "CardType": "Magic",
+    "Deck_Cost": 15,
+    "Name": "Exile of the Wicked",
+    "Description": "A holy spell that is feared and loathed by every kind of fiend. It causes all fiends on the opponent's field to disappear.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872269/TSC/TSC_786.jpg"
+  },
+  {
+    "Id": 787,
+    "CardType": "Magic",
+    "Deck_Cost": 15,
+    "Name": "Last Day of Witch",
+    "Description": "An attack spell that is devastating to any kind of magician. It causes all magicians on the foe's field to disappear.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872767/TSC/TSC_787.jpg"
+  },
+  {
+    "Id": 788,
+    "CardType": "Magic",
+    "Deck_Cost": 15,
+    "Name": "Restructer Revolution",
+    "Description": "An attack spell that directly hits the opponent's LP. It inflicts 200LP damage for every card in the foe's hand.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872249/TSC/TSC_788.jpg"
+  },
+  {
+    "Id": 789,
+    "CardType": "Magic",
+    "Deck_Cost": 50,
+    "Name": "Pot of Greed",
+    "Description": "A card that allows the player to draw cards from the deck. Up to two cards may be drawn if there is room in the hand.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872237/TSC/TSC_789.jpg"
+  },
+  {
+    "Id": 790,
+    "CardType": "Magic",
+    "Deck_Cost": 2,
+    "Name": "The Inexperienced Spy",
+    "Description": "A spell that enables the player to look at the foe's hand. All the cards in the opponent's hand become visible.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872772/TSC/TSC_790.jpg"
+  },
+  {
+    "Id": 870,
+    "CardType": "Trap",
+    "Deck_Cost": 15,
+    "Name": "Amazon Archers",
+    "Description": "A trap card of female archers that rain arrows on a foe. It powers down a monster on the foe's field.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872249/TSC/TSC_870.jpg"
+  },
+  {
+    "Id": 891,
+    "CardType": "Magic",
+    "Deck_Cost": 10,
+    "Name": "Messenger of Peace",
+    "Description": "A spell cast by a pacifist fairy. It immobilizes all monsters on the foe's field with an ATK of 1,500 or higher for one turn.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872782/TSC/TSC_891.png"
+  },
+  {
+    "Id": 892,
+    "CardType": "Magic",
+    "Deck_Cost": 10,
+    "Name": "Darkness Approaches",
+    "Description": "A spell that is used to conceal the identity of cards. It makes all cards on the player's field turn facedown.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872786/TSC/TSC_892.jpg"
+  },
+  {
+    "Id": 893,
+    "CardType": "Magic",
+    "Deck_Cost": 15,
+    "Name": "Final Destiny",
+    "Description": "A spell that brings total devastation on the entire proceedings. It destroys all cards on the field and in the hands.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872762/TSC/TSC_893.jpg"
+  },
+  {
+    "Id": 894,
+    "CardType": "Magic",
+    "Deck_Cost": 25,
+    "Name": "Heavy Storm",
+    "Description": "A spell that totally wipes out every card on the playing field. It creates a storm that blows away all cards on the field.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872771/TSC/TSC_894.jpg"
+  },
+  {
+    "Id": 895,
+    "CardType": "Magic",
+    "Deck_Cost": 60,
+    "Name": "Monster Reborn",
+    "Description": "A spell that resurrects a monster from the opponent's graveyard and places it on the player's side of the field.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872783/TSC/TSC_895.png"
+  },
+  {
+    "Id": 896,
+    "CardType": "Magic",
+    "Deck_Cost": 2,
+    "Name": "Gravedigger Ghoul",
+    "Description": "A spell that brings forth a ghoul that desecrates graves. It carries off all the monsters in graveyards.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872788/TSC/TSC_896.jpg"
+  },
+  {
+    "Id": 897,
+    "CardType": "Trap",
+    "Deck_Cost": 60,
+    "Name": "Torrential Tribute",
+    "Description": "A trap card that has dire consequences to anyone that trips it. If attacked, it destroys all monsters on the foe's field.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872790/TSC/TSC_897.png"
+  },
+  {
+    "Id": 898,
+    "CardType": "Magic",
+    "Deck_Cost": 15,
+    "Name": "Beckon to Darkness",
+    "Description": "A trap card that causes the banishment of a monster to darkness. If attacked, it destroys a monster on the foe's field.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872418/TSC/TSC_898.png"
+  },
+  {
+    "Id": 899,
+    "CardType": "Trap",
+    "Deck_Cost": 0,
+    "Name": "Infinite Dismissal",
+    "Description": "A trap card that causes immobilization when it is tripped. The attacker is immobilized for one turn.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872413/TSC/TSC_899.jpg"
+  },
+  {
+    "Id": 900,
+    "CardType": "Magic",
+    "Deck_Cost": 75,
+    "Name": "7 Completed",
+    "Description": "An equip spell that is designed to power up a machine. It is only intended to power up a Slot Machine.",
+    "URL_IMAGE": "https://res.cloudinary.com/drzf6ru3m/image/upload/v1682872789/TSC/TSC_900.jpg"
+  }
+]

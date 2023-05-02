@@ -1,0 +1,21 @@
+{
+  "Attributes": [
+    { "Id": 0, "name": "Divine" },
+    { "Id": 1, "name": "Shadow", "weakness": 4 },
+    { "Id": 2, "name": "Light", "weakness": 1 },
+    { "Id": 3, "name": "Fiend", "weakness": 2 },
+    { "Id": 4, "name": "Dream", "weakness": 3 },
+    { "Id": 5, "name": "Pyro", "weakness": 10 },
+    { "Id": 6, "name": "Forest", "weakness": 5 },
+    { "Id": 7, "name": "Wind", "weakness": 6 },
+    { "Id": 8, "name": "Earth", "weakness": 7 },
+    { "Id": 9, "name": "Thunder", "weakness": 8 },
+    { "Id": 10, "name": "Aqua,", "weakness": 9 }
+  ],
+  "Types": [
+    { "Id": 0, "name": "Monster" },
+    { "Id": 1, "name": "Magic" },
+    { "Id": 2, "name": "Trap" },
+    { "Id": 3, "name": "Ritual" }
+  ]
+}

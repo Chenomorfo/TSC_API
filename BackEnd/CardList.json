@@ -1,0 +1,4502 @@
+[
+  {
+    "Id": "1",
+    "Name": "Blue-Eyes White Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/68/BlueEyesWhiteDragon-TF04-JP-VG-2.jpg"
+  },
+  {
+    "Id": "2",
+    "Name": "Mystical Elf",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/ac/MysticalElf-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "3",
+    "Name": "Hitotsu-Me Giant",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/21/HitotsuMeGiant-TF05-JP-VG.png"
+  },
+  {
+    "Id": "4",
+    "Name": "Baby Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e9/BabyDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "5",
+    "Name": "Ryu-Kishin",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/76/RyuKishin-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "6",
+    "Name": "Feral Imp",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/91/FeralImp-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "7",
+    "Name": "Winged Dragon, Guardian of the Fortress #1",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/5d/WingedDragonGuardianoftheFortress1-GX02-JP-VG.jpg"
+  },
+  {
+    "Id": "8",
+    "Name": "Mushroom Man",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a2/MushroomMan-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "9",
+    "Name": "Shadow Specter",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/ed/ShadowSpecter-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "10",
+    "Name": "Blackland Fire Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c2/BlacklandFireDragon-TF04-JP-VG.png"
+  },
+  {
+    "Id": "11",
+    "Name": "Sword Arm of Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/be/SwordArmofDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "12",
+    "Name": "Swamp Battleguard",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/94/SwampBattleguard-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "13",
+    "Name": "Tyhone",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/63/Tyhone-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "14",
+    "Name": "Battle Steer",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/5c/BattleSteer-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "15",
+    "Name": "Flame Swordsman",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/da/FlameSwordsman-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "16",
+    "Name": "Time Wizard",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/0c/TimeWizard-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "17",
+    "Name": "Right Leg of the Forbidden One",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/9a/RightLegoftheForbiddenOne-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "18",
+    "Name": "Left Leg of the Forbidden One",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/88/LeftLegoftheForbiddenOne-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "19",
+    "Name": "Right Arm of the Forbidden One",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/ed/RightArmoftheForbiddenOne-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "20",
+    "Name": "Left Arm of the Forbidden One",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e2/LeftArmoftheForbiddenOne-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "21",
+    "Name": "Exodia the Forbidden One",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e9/ExodiatheForbiddenOne-TF04-EN-VG.jpg"
+  },
+  {
+    "Id": "22",
+    "Name": "Summoned Skull",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/0a/SummonedSkull-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "23",
+    "Name": "The Wicked Worm Beast",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/17/TheWickedWormBeast-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "24",
+    "Name": "Skull Servant",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/1a/SkullServant-TF04-JP-VG.png"
+  },
+  {
+    "Id": "25",
+    "Name": "Horn Imp",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/99/HornImp-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "26",
+    "Name": "Battle Ox",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/cb/BattleOx-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "27",
+    "Name": "Beaver Warrior",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/58/BeaverWarrior-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "28",
+    "Name": "Rock Ogre Grotto #1",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/4d/RockOgreGrotto1-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "29",
+    "Name": "Mountain Warrior",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/b/bb/Foto_guerrero_de_la_monta%C3%B1a.jpg/revision/latest?cb=20120211032600&path-prefix=es"
+  },
+  {
+    "Id": "30",
+    "Name": "Zombie Warrior",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a2/ZombieWarrior-TF04-JP-VG.png"
+  },
+  {
+    "Id": "31",
+    "Name": "Koumori Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/fa/KoumoriDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "32",
+    "Name": "Two-Headed King Rex",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/51/TwoHeadedKingRex-GX06-JP-VG.jpg"
+  },
+  {
+    "Id": "33",
+    "Name": "Judge Man",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/32/JudgeMan-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "34",
+    "Name": "Saggi the Dark Clown",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/d/d0/Foto_saggi_el_payaso_oscuro.jpg/revision/latest?cb=20120202061441&path-prefix=es"
+  },
+  {
+    "Id": "35",
+    "Name": "Dark Magician",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e9/DarkMagician-TF05-JP-VG-2.png"
+  },
+  {
+    "Id": "36",
+    "Name": "The Snake Hair",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/84/TheSnakeHair-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "37",
+    "Name": "Gaia the Dragon Champion",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/67/GaiatheDragonChampion-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "38",
+    "Name": "Gaia The Fierce Knight",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/af/GaiaTheFierceKnight-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "39",
+    "Name": "Curse of Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/fa/CurseofDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "40",
+    "Name": "Dragon Piper",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c4/DragonPiper-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "41",
+    "Name": "Celtic Guardian",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/ab/CelticGuardian-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "42",
+    "Name": "Illusionist Faceless Mage",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d8/IllusionistFacelessMage-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "43",
+    "Name": "Karbonala Warrior",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/1d/KarbonalaWarrior-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "44",
+    "Name": "Rogue Doll",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e2/RogueDoll-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "45",
+    "Name": "Oscillo Hero #2",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f0/OscilloHero-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "46",
+    "Name": "Griffore",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/2e/Griffore-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "47",
+    "Name": "Torike",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/bf/Torike-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "48",
+    "Name": "Sangan",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3d/Sangan-TF04-JP-VG.png"
+  },
+  {
+    "Id": "49",
+    "Name": "Big Insect",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/55/BigInsect-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "50",
+    "Name": "Basic Insect",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c6/BasicInsect-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "51",
+    "Name": "Armored Lizard",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/14/ArmoredLizard-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "52",
+    "Name": "Hercules Beetle",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b5/HerculesBeetle-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "53",
+    "Name": "Killer Needle",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d2/KillerNeedle-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "54",
+    "Name": "Gokibore",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/88/Gokibore-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "55",
+    "Name": "Giant Flea",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c4/GiantFlea-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "56",
+    "Name": "Larvae Moth",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/48/LarvaeMoth-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "57",
+    "Name": "Great Moth",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/67/GreatMoth-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "58",
+    "Name": "Kuriboh",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/14/Kuriboh-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "59",
+    "Name": "Mammoth Graveyard",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/03/MammothGraveyard-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "60",
+    "Name": "Great White",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/07/GreatWhite-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "61",
+    "Name": "Wolf",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a5/Wolf-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "62",
+    "Name": "Harpie Lady",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/2a/HarpieLady-TF04-JP-VG.png"
+  },
+  {
+    "Id": "63",
+    "Name": "Harpie Lady Sisters",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/ec/HarpieLadySisters-TF04-EN-VG.jpg"
+  },
+  {
+    "Id": "64",
+    "Name": "Tiger Axe",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/ad/TigerAxe-TF04-JP-VG-2.jpg"
+  },
+  {
+    "Id": "65",
+    "Name": "Silver Fang",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/39/SilverFang-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "66",
+    "Name": "Kojikocy",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d3/Kojikocy-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "67",
+    "Name": "Perfectly Ultimate Great Moth",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/78/PerfectlyUltimateGreatMoth-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "68",
+    "Name": "Garoozis",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/60/Garoozis-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "69",
+    "Name": "Thousand Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/81/ThousandDragon-TF05-JP-VG-2.png"
+  },
+  {
+    "Id": "70",
+    "Name": "Fiend Kraken",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f7/FiendKraken-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "71",
+    "Name": "Jellyfish",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/1f/Jellyfish-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "72",
+    "Name": "Cocoon of Evolution",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a5/CocoonofEvolution-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "73",
+    "Name": "Kairyu-Shin",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c3/KairyuShin-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "74",
+    "Name": "Giant Soldier of Stone",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/fa/GiantSoldierofStone-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "75",
+    "Name": "Man-Eating Plant",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/74/ManEatingPlant-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "76",
+    "Name": "Krokodilus",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/86/Krokodilus-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "77",
+    "Name": "Grappler",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/02/Grappler-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "78",
+    "Name": "Axe Raider",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/94/AxeRaider-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "79",
+    "Name": "Megazowler",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/83/Megazowler-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "80",
+    "Name": "Uraby",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/4d/Uraby-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "81",
+    "Name": "Crawling Dragon #2",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f8/CrawlingDragon2-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "82",
+    "Name": "Red-Eyes B. Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/42/RedEyesBDragon-TF05-JP-VG.jpg"
+  },
+  {
+    "Id": "83",
+    "Name": "Castle of Dark Illusions",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c9/CastleofDarkIllusions-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "84",
+    "Name": "Reaper of the Cards",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f4/ReaperoftheCards-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "85",
+    "Name": "King of Yamimakai",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/00/KingofYamimakai-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "86",
+    "Name": "Barox",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f8/Barox-TF04-JP-VG.png"
+  },
+  {
+    "Id": "87",
+    "Name": "Dark Chimera",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/2b/DarkChimera-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "88",
+    "Name": "Metal Guardian",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/fb/MetalGuardian-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "89",
+    "Name": "Catapult Turtle",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/0e/CatapultTurtle-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "90",
+    "Name": "Gyakutenno Megami",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/4e/GyakutennoMegami-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "91",
+    "Name": "Mystic Horseman",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/ad/MysticHorseman-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "92",
+    "Name": "Rabid Horseman",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3b/RabidHorseman-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "93",
+    "Name": "Zanki",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/58/Zanki-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "94",
+    "Name": "Crawling Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/19/CrawlingDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "95",
+    "Name": "Crass Clown",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d3/CrassClown-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "96",
+    "Name": "Armored Zombie",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/51/ArmoredZombie-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "97",
+    "Name": "Dragon Zombie",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/45/DragonZombie-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "98",
+    "Name": "Clown Zombie",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c5/ClownZombie-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "99",
+    "Name": "Pumpking the King of Ghosts",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/62/PumpkingtheKingofGhosts-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "100",
+    "Name": "Battle Warrior",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/2e/BattleWarrior-TF04-JP-VG.png"
+  },
+  {
+    "Id": "101",
+    "Name": "Wings of Wicked Flame",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6b/WingsofWickedFlame-TF04-JP-VG.png/revision/latest?cb=20160817003947"
+  },
+  {
+    "Id": "102",
+    "Name": "Mask of Darkness",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3e/MaskofDarkness-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "103",
+    "Name": "Job-Change Mirror",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e0/JobChangeMirror-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "104",
+    "Name": "Curtain of the Dark Ones",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/94/CurtainoftheDarkOnes-TF04-JP-VG.png"
+  },
+  {
+    "Id": "105",
+    "Name": "Tomozaurus",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/5b/Tomozaurus-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "106",
+    "Name": "Spirit of the Winds",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f4/SpiritoftheWinds-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "107",
+    "Name": "Kageningen",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b7/Kageningen-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "108",
+    "Name": "Graveyard and the Hand of Invitation",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6e/GraveyardandtheHandofInvitation-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "109",
+    "Name": "Goddess with the Third Eye",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/54/GoddesswiththeThirdEye-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "110",
+    "Name": "Hero of the East",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/96/HerooftheEast-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "111",
+    "Name": "Doma The Angel of Silence",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/40/DomaTheAngelofSilence-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "112",
+    "Name": "That Which Feeds on Life",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/9b/ThatWhichFeedsonLife-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "113",
+    "Name": "Dark Gray",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/23/DarkGray-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "114",
+    "Name": "White Magical Hat",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/50/WhiteMagicalHat-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "115",
+    "Name": "Kamionwizard",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/1f/Kamionwizard-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "116",
+    "Name": "Nightmare Scorpion",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/4e/NightmareScorpion-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "117",
+    "Name": "Spirit of the Books",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/41/SpiritoftheBooks-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "118",
+    "Name": "Supporter in the Shadows",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/ab/SupporterintheShadows-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "119",
+    "Name": "Trial of Nightmare",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/85/TrialofNightmare-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "120",
+    "Name": "Dream Clown",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/24/DreamClown-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "121",
+    "Name": "Sleeping Lion",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d0/SleepingLion-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "122",
+    "Name": "Yamatano Dragon Scroll",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f0/YamatanoDragonScroll-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "123",
+    "Name": "Dark Plant",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/07/DarkPlant-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "124",
+    "Name": "Ancient Tool",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d2/AncientTool-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "125",
+    "Name": "Faith Bird",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/86/FaithBird-TF04-JP-VG.png"
+  },
+  {
+    "Id": "126",
+    "Name": "Orion the Battle King",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/8f/OriontheBattleKing-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "127",
+    "Name": "Ansatsu",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c2/Ansatsu-TF04-JP-VG.png"
+  },
+  {
+    "Id": "128",
+    "Name": "LaMoon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c7/LaMoon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "129",
+    "Name": "Nemuriko",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/8f/Nemuriko-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "130",
+    "Name": "Weather Control",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a4/WeatherControl-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "131",
+    "Name": "Octoberser",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/8c/Octoberser-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "132",
+    "Name": "The 13th Grave",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f1/The13thGrave-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "133",
+    "Name": "Charubin the Fire Knight",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/ff/CharubintheFireKnight-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "134",
+    "Name": "Mystical Capture Chain",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a4/MysticalCaptureChain-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "135",
+    "Name": "Fiend's Hand",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e3/FiendsHand-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "136",
+    "Name": "Witty Phantom",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/01/WittyPhantom-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "137",
+    "Name": "Mystery Hand",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/8a/MysteryHand-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "138",
+    "Name": "Dragon Statue",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e5/DragonStatue-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "139",
+    "Name": "Blue-Eyed Silver Zombie",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b5/BlueEyedSilverZombie-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "140",
+    "Name": "Toad Master",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/bb/ToadMaster-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "141",
+    "Name": "Spiked Snail",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e8/SpikedSnail-TF04-JP-VG.png"
+  },
+  {
+    "Id": "142",
+    "Name": "Flame Manipulator",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/44/FlameManipulator-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "143",
+    "Name": "Necrolancer the Timelord",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/57/NecrolancertheTimelord-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "144",
+    "Name": "Djinn the Watcher of the Wind",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b3/DjinntheWatcheroftheWind-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "145",
+    "Name": "The Bewitching Phantom Thief",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/10/TheBewitchingPhantomThief-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "146",
+    "Name": "Temple of Skulls",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b8/TempleofSkulls-TF04-JP-VG.png"
+  },
+  {
+    "Id": "147",
+    "Name": "Monster Egg",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/87/MonsterEgg-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "148",
+    "Name": "The Shadow Who Controls the Dark",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/dd/TheShadowWhoControlstheDark-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "149",
+    "Name": "Lord of the Lamp",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/9b/LordoftheLamp-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "150",
+    "Name": "Akihiron",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/9f/Akihiron-GX02-JP-VG.png"
+  },
+  {
+    "Id": "151",
+    "Name": "Rhaimundos of the Red Sword",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/09/RhaimundosoftheRedSword-TF04-JP-VG.png"
+  },
+  {
+    "Id": "152",
+    "Name": "The Melting Red Shadow",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/2f/TheMeltingRedShadow-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "153",
+    "Name": "Dokuroizo the Grim Reaper",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/53/DokuroizotheGrimReaper-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "154",
+    "Name": "Fire Reaper",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/1f/FireReaper-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "155",
+    "Name": "Larvas",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d5/Larvas-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "156",
+    "Name": "Hard Armor",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e0/HardArmor-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "157",
+    "Name": "Firegrass",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3a/Firegrass-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "158",
+    "Name": "Man Eater",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/34/ManEater-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "159",
+    "Name": "Dig Beak",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c0/DigBeak-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "160",
+    "Name": "M-Warrior #1",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/7/7d/Foto_m-guerrero_n%C2%B0_1.jpg/revision/latest?cb=20120327021639&path-prefix=es"
+  },
+  {
+    "Id": "161",
+    "Name": "M-Warrior #2",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/e/e5/Foto_m-guerrero_n%C2%B0_2.jpg/revision/latest?cb=20120316044041&path-prefix=es"
+  },
+  {
+    "Id": "162",
+    "Name": "Tainted Wisdom",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f1/TaintedWisdom-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "163",
+    "Name": "Lisark",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6a/Lisark-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "164",
+    "Name": "Lord of Zemia",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/49/LordofZemia-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "165",
+    "Name": "The Judgement Hand",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/4a/TheJudgementHand-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "166",
+    "Name": "Mysterious Puppeteer",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/1e/MysteriousPuppeteer-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "167",
+    "Name": "Ancient Jar",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/45/AncientJar-GX02-JP-VG.png"
+  },
+  {
+    "Id": "168",
+    "Name": "Darkfire Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/ef/DarkfireDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "169",
+    "Name": "Dark King of the Abyss",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d7/DarkKingoftheAbyss-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "170",
+    "Name": "Spirit of the Harp",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/bd/SpiritoftheHarp-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "171",
+    "Name": "Big Eye",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/11/BigEye-TF04-JP-VG.png"
+  },
+  {
+    "Id": "172",
+    "Name": "Armaill",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/02/Armaill-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "173",
+    "Name": "Dark Prisoner",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/1f/DarkPrisoner-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "174",
+    "Name": "Hurricail",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/17/Hurricail-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "175",
+    "Name": "Ancient Brain",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f8/AncientBrain-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "176",
+    "Name": "Fire Eye",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/ce/FireEye-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "177",
+    "Name": "Monsturtle",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b9/Monsturtle-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "178",
+    "Name": "Claw Reacher",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/19/ClawReacher-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "179",
+    "Name": "Phantom Dewan",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/8b/PhantomDewan-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "180",
+    "Name": "Arlownay",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/da/Arlownay-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "181",
+    "Name": "Dark Shade",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/9f/DarkShade-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "182",
+    "Name": "Masked Clown",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/67/MaskedClown-TF04-JP-VG.png"
+  },
+  {
+    "Id": "183",
+    "Name": "Lucky Trinket",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a3/LuckyTrinket-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "184",
+    "Name": "Genin",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/be/Genin-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "185",
+    "Name": "Eyearmor",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/cc/Eyearmor-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "186",
+    "Name": "Fiend Reflection #2",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/fd/FiendReflection2-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "187",
+    "Name": "Gate Deeg",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/ca/GateDeeg-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "188",
+    "Name": "Synchar",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e8/Synchar-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "189",
+    "Name": "Fusionist",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/55/Fusionist-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "190",
+    "Name": "Akakieisu",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b9/Akakieisu-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "191",
+    "Name": "LaLa Li-oon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a1/LaLaLiOon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "192",
+    "Name": "Key Mace",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/bc/KeyMace-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "193",
+    "Name": "Turtle Tiger",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/1c/TurtleTiger-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "194",
+    "Name": "Terra the Terrible",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b0/TerratheTerrible-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "195",
+    "Name": "Doron",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/80/Doron-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "196",
+    "Name": "Arma Knight",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/8e/ArmaKnight-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "197",
+    "Name": "Mech Mole Zombie",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d6/MechMoleZombie-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "198",
+    "Name": "Happy Lover",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/46/HappyLover-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "199",
+    "Name": "Penguin Knight",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/37/PenguinKnight-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "200",
+    "Name": "Petit Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/5d/PetitDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "201",
+    "Name": "Frenzied Panda",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/38/FrenziedPanda-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "202",
+    "Name": "Air Marmot of Nefariousness",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/86/ArchfiendMarmotofNefariousness-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "203",
+    "Name": "Phantom Ghost",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/10/PhantomGhost-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "204",
+    "Name": "Mabarrel",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/87/Mabarrel-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "205",
+    "Name": "Dorover",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/cb/Dorover-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "206",
+    "Name": "Twin Long Rods #1",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/17/TwinLongRods1-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "207",
+    "Name": "Droll Bird",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/bf/DrollBird-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "208",
+    "Name": "Petit Angel",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/eb/PetitAngel-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "209",
+    "Name": "Winged Cleaver",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c5/WingedCleaver-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "210",
+    "Name": "Hinotama Soul",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/60/HinotamaSoul-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "211",
+    "Name": "Kaminarikozou",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/9/96/Foto_ni%C3%B1o_trueno.jpg/revision/latest?cb=20121005012819&path-prefix=es"
+  },
+  {
+    "Id": "212",
+    "Name": "Meotoko",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6c/Meotoko-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "213",
+    "Name": "Aqua Madoor",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e5/AquaMadoor-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "214",
+    "Name": "Kagemusha of the Blue Flame",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/12/KagemushaoftheBlueFlame-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "215",
+    "Name": "Flame Ghost",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/66/FlameGhost-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "216",
+    "Name": "Dryad",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/e/e9/Foto_dryad.jpg/revision/latest?cb=20120501002956&path-prefix=es"
+  },
+  {
+    "Id": "217",
+    "Name": "B. Skull Dragon",
+    "Pic": "https://uploads4.yugioh.com/card_images/1507/detail/2794.jpg?1385101805"
+  },
+  {
+    "Id": "218",
+    "Name": "Two-Mouth Darkruler",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/01/TwoMouthDarkruler-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "219",
+    "Name": "Solitude",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/1f/Solitude-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "220",
+    "Name": "Masked Sorcerer",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/91/MaskedSorcerer-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "221",
+    "Name": "Kumootoko",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c0/Kumootoko-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "222",
+    "Name": "Midnight Fiend",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/25/MidnightFiend-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "223",
+    "Name": "Roaring Ocean Snake",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/30/RoaringOceanSnake-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "224",
+    "Name": "Trap Master",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/37/TrapMaster-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "225",
+    "Name": "Fiend Sword",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b2/FiendSword-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "226",
+    "Name": "Skull Stalker",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e4/SkullStalker-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "227",
+    "Name": "Hitodenchak",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/be/Hitodenchak-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "228",
+    "Name": "Wood Remains",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/54/WoodRemains-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "229",
+    "Name": "Hourglass of Life",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/1f/HourglassofLife-TF04-JP-VG.jpg/revision/latest?cb=20120611230634"
+  },
+  {
+    "Id": "230",
+    "Name": "Rare Fish",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6d/RareFish-TF04-JP-VG.png"
+  },
+  {
+    "Id": "231",
+    "Name": "Wood Clown",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/24/WoodClown-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "232",
+    "Name": "Madjinn Gunn",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e3/MadjinnGunn-TF04-JP-VG.png"
+  },
+  {
+    "Id": "233",
+    "Name": "Dark Titan of Terror",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/0f/DarkTitanofTerror-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "234",
+    "Name": "Beautiful Headhuntress",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/99/BeautifulHeadhuntress-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "235",
+    "Name": "Wodan the Resident of the Forest",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/fa/WodantheResidentoftheForest-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "236",
+    "Name": "Guardian of the Labyrinth",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/75/GuardianoftheLabyrinth-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "237",
+    "Name": "Haniwa",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/ad/Haniwa-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "238",
+    "Name": "Yashinoki",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/44/Yashinoki-TF04-JP-VG.png"
+  },
+  {
+    "Id": "239",
+    "Name": "Vishwar Randi",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6b/VishwarRandi-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "240",
+    "Name": "The Drdek",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/2e/TheDrdek-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "241",
+    "Name": "Dark Assailant",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/ee/DarkAssailant-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "242",
+    "Name": "Candle of Fate",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e0/CandleofFate-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "243",
+    "Name": "Water Element",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/89/WaterElement-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "244",
+    "Name": "Dissolverock",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/03/Dissolverock-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "245",
+    "Name": "Meda Bat",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/75/MedaBat-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "246",
+    "Name": "One Who Hunts Souls",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c5/OneWhoHuntsSouls-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "247",
+    "Name": "Root Water",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/8a/RootWater-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "248",
+    "Name": "Master & Expert",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/78/MasterExpert-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "249",
+    "Name": "Water Omotics",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6d/WaterOmotics-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "250",
+    "Name": "Hyo",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/22/Hyo-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "251",
+    "Name": "Enchanting Mermaid",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/17/EnchantingMermaid-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "252",
+    "Name": "Nekogal #1",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/ea/Nekogal1-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "253",
+    "Name": "Fairywitch",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/df/Fairywitch-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "254",
+    "Name": "Embryonic Beast",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b5/EmbryonicBeast-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "255",
+    "Name": "Prevent Rat",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/30/PreventRat-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "256",
+    "Name": "Dimensional Warrior",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/f/ff/Foto_guerrero_d.d..jpg/revision/latest?cb=20120330074234&path-prefix=es"
+  },
+  {
+    "Id": "257",
+    "Name": "Stone Armadiller",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3c/StoneArmadiller-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "258",
+    "Name": "Beastking of the Swamps",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/46/BeastkingoftheSwamps-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "259",
+    "Name": "Ancient Sorcerer",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/0d/AncientSorcerer-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "260",
+    "Name": "Lunar Queen Elzaim",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b8/LunarQueenElzaim-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "261",
+    "Name": "Wicked Mirror",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/e/e2/Foto_espejo_archidemonio.jpg/revision/latest?cb=20120526005418&path-prefix=es"
+  },
+  {
+    "Id": "262",
+    "Name": "The Little Swordsman of Aile",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/9a/TheLittleSwordsmanofAile-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "263",
+    "Name": "Rock Ogre Grotto #2",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/8f/RockOgreGrotto2-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "264",
+    "Name": "Wing Egg Elf",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/8f/WingEggElf-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "265",
+    "Name": "The Furious Sea King",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/14/TheFuriousSeaKing-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "266",
+    "Name": "Princess of Tsurugi",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a0/PrincessofTsurugi-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "267",
+    "Name": "Unknown Warrior of Fiend",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/af/UnknownWarriorofFiend-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "268",
+    "Name": "Sectarian of Secrets",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/ad/SectarianofSecrets-TF04-JP-VG.png"
+  },
+  {
+    "Id": "269",
+    "Name": "Versago the Destroyer",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6b/VersagotheDestroyer-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "270",
+    "Name": "Wetha",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/77/Wetha-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "271",
+    "Name": "Megirus Light",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/ba/MegirusLight-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "272",
+    "Name": "Mavelus",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/7c/Mavelus-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "273",
+    "Name": "Ancient Tree of Enlightenment",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/17/AncientTreeofEnlightenment-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "274",
+    "Name": "Green Phantom King",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/66/GreenPhantomKing-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "275",
+    "Name": "Ground Attacker Bugroth",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/59/GroundAttackerBugroth-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "276",
+    "Name": "Ray & Temperature",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/15/RayTemperature-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "277",
+    "Name": "Gorgon Egg",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/9e/GorgonEgg-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "278",
+    "Name": "Petit Moth",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/1a/PetitMoth-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "279",
+    "Name": "King Fog",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/7d/KingFog-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "280",
+    "Name": "Protector of the Throne",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/4c/ProtectoroftheThrone-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "281",
+    "Name": "Mystic Clown",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/65/MysticClown-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "282",
+    "Name": "Mystical Sheep #2",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a1/MysticalSheep2-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "283",
+    "Name": "Holograh",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/fc/Holograh-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "284",
+    "Name": "Tao the Chanter",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/81/TaotheChanter-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "285",
+    "Name": "Serpent Marauder",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/2d/SerpentMarauder-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "286",
+    "Name": "Gatekeeper",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/08/Gatekeeper-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "287",
+    "Name": "Ogre of the Black Shadow",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/12/OgreoftheBlackShadow-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "288",
+    "Name": "Dark Artist",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/0f/DarkArtist-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "289",
+    "Name": "Change Slime",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f9/ChangeSlime-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "290",
+    "Name": "Moon Envoy",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/8e/MoonEnvoy-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "291",
+    "Name": "Fireyarou",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c9/Fireyarou-TF04-JP-VG.png"
+  },
+  {
+    "Id": "292",
+    "Name": "Psychic Kappa",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/2e/PsychicKappa-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "293",
+    "Name": "Masaki the Legendary Swordsman",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/da/MasakitheLegendarySwordsman-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "294",
+    "Name": "Dragoness the Wicked Knight",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e1/DragonesstheWickedKnight-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "295",
+    "Name": "Bio Plant",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c0/BioPlant-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "296",
+    "Name": "One-Eyed Shield Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f6/OneEyedShieldDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "297",
+    "Name": "Cyber Soldier of Darkworld",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/93/CyberSoldierofDarkworld-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "298",
+    "Name": "Wicked Dragon with the Ersatz Head",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/31/WickedDragonwiththeErsatzHead-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "299",
+    "Name": "Sonic Maid",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/12/SonicMaid-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "300",
+    "Name": "Kurama",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d5/Kurama-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "301",
+    "Name": "Legendary Sword",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/38/LegendarySword-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "302",
+    "Name": "Sword of Dark Destruction",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a3/SwordofDarkDestruction-TF04-JP-VG.png"
+  },
+  {
+    "Id": "303",
+    "Name": "Dark Energy",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/13/DarkEnergy-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "304",
+    "Name": "Axe of Despair",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/29/AxeofDespair-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "305",
+    "Name": "Laser Cannon Armor",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/91/LaserCannonArmor-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "306",
+    "Name": "Insect Armor with Laser Cannon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/57/InsectArmorwithLaserCannon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "307",
+    "Name": "Elf's Light",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/0a/ElfsLight-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "308",
+    "Name": "Beast Fangs",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c5/BeastFangs-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "309",
+    "Name": "Steel Shell",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/ae/SteelShell-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "310",
+    "Name": "Vile Germs",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/24/VileGerms-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "311",
+    "Name": "Black Pendant",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/4e/BlackPendant-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "312",
+    "Name": "Silver Bow and Arrow",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/be/SilverBowandArrow-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "313",
+    "Name": "Horn of Light",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/ab/HornofLight-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "314",
+    "Name": "Horn of the Unicorn",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/61/HornoftheUnicorn-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "315",
+    "Name": "Dragon Treasure",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/36/DragonTreasure-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "316",
+    "Name": "Electro-Whip",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/1b/ElectroWhip-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "317",
+    "Name": "Cyber Shield",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/75/CyberShield-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "318",
+    "Name": "Elegant Egotist",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a5/ElegantEgotist-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "319",
+    "Name": "Mystical Moon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a2/MysticalMoon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "320",
+    "Name": "Stop Defense",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/07/StopDefense-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "321",
+    "Name": "Malevolent Nuzzler",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/a/a0/Foto_nuzzler_mal%C3%A9volo.jpg/revision/latest?cb=20120407062404&path-prefix=es"
+  },
+  {
+    "Id": "322",
+    "Name": "Violet Crystal",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/dc/VioletCrystal-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "323",
+    "Name": "Book of Secret Arts",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/11/BookofSecretArts-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "324",
+    "Name": "Invigoration",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/51/Invigoration-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "325",
+    "Name": "Machine Conversion Factory",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/01/MachineConversionFactory-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "326",
+    "Name": "Raise Body Heat",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/cb/RaiseBodyHeat-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "327",
+    "Name": "Follow Wind",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/72/FollowWind-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "328",
+    "Name": "Power of Kaishin",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b3/PowerofKaishin-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "329",
+    "Name": "Dragon Capture Jar",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3b/DragonCaptureJar-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "330",
+    "Name": "Forest",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/39/Forest-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "331",
+    "Name": "Wasteland",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/0b/Wasteland-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "332",
+    "Name": "Mountain",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/df/Mountain-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "333",
+    "Name": "Sogen",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/1d/Sogen-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "334",
+    "Name": "Umi",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/7c/Umi-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "335",
+    "Name": "Yami",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/87/Yami-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "336",
+    "Name": "Dark Hole",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/cc/DarkHole-TF04-JP-VG.png"
+  },
+  {
+    "Id": "337",
+    "Name": "Raigeki",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/11/Raigeki-TF04-JP-VG.png"
+  },
+  {
+    "Id": "338",
+    "Name": "Mooyan Curry",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/26/MooyanCurry-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "339",
+    "Name": "Red Medicine",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a0/RedMedicine-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "340",
+    "Name": "Goblin's Secret Remedy",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/fb/GoblinsSecretRemedy-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "341",
+    "Name": "Soul of the Pure",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/ca/SoulofthePure-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "342",
+    "Name": "Dian Keto the Cure Master",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3c/DianKetotheCureMaster-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "343",
+    "Name": "Sparks",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f6/Sparks-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "344",
+    "Name": "Hinotama",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/0f/Hinotama-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "345",
+    "Name": "Final Flame",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/67/FinalFlame-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "346",
+    "Name": "Ookazi",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3e/Ookazi-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "347",
+    "Name": "Tremendous Fire",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f8/TremendousFire-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "348",
+    "Name": "Swords of Revealing Light",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/28/SwordsofRevealingLight-TF04-JP-VG.png"
+  },
+  {
+    "Id": "349",
+    "Name": "Spellbinding Circle",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a9/SpellbindingCircle-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "350",
+    "Name": "Dark-Piercing Light",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/8/85/Foto_luz_perfora-oscuridad.jpg/revision/latest?cb=20120206045134&path-prefix=es"
+  },
+  {
+    "Id": "351",
+    "Name": "Yaranzo",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/0a/Yaranzo-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "352",
+    "Name": "Kanan the Swordmistress",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/de/KanantheSwordmistress-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "353",
+    "Name": "Takriminos",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/31/Takriminos-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "354",
+    "Name": "Stuffed Animal",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d1/StuffedAnimal-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "355",
+    "Name": "Megasonic Eye",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/87/MegasonicEye-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "356",
+    "Name": "Super War-Lion",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a6/SuperWarLion-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "357",
+    "Name": "Yamadron",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3d/Yamadron-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "358",
+    "Name": "Seiyaryu",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f7/Seiyaryu-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "359",
+    "Name": "Three-Legged Zombies",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/50/ThreeLeggedZombies-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "360",
+    "Name": "Zera The Mant",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/7b/ZeratheMant-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "361",
+    "Name": "Flying Penguin",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/45/FlyingPenguin-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "362",
+    "Name": "Millennium Shield",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b4/MillenniumShield-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "363",
+    "Name": "Fairy's Gift",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/9b/FairysGift-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "364",
+    "Name": "Black Luster Soldier",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/88/BlackLusterSoldier-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "365",
+    "Name": "Fiend's Mirror",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c9/FiendsMirror-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "366",
+    "Name": "Labyrinth Wall",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/aa/LabyrinthWall-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "367",
+    "Name": "Jirai Gumo",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/fb/JiraiGumo-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "368",
+    "Name": "Shadow Ghoul",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/59/ShadowGhoul-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "369",
+    "Name": "Wall Shadow",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/21/WallShadow-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "370",
+    "Name": "Labyrinth Tank",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3d/LabyrinthTank-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "371",
+    "Name": "Sanga of the Thunder",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/cd/SangaoftheThunder-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "372",
+    "Name": "Kazejin",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/8c/Kazejin-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "373",
+    "Name": "Suijin",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/14/Suijin-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "374",
+    "Name": "Gate Guardian",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/21/GateGuardian-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "375",
+    "Name": "Dungeon Worm",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b4/DungeonWorm-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "376",
+    "Name": "Monster Tamer",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/ee/MonsterTamer-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "377",
+    "Name": "Ryu-Kishin Powered",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e7/RyuKishinPowered-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "378",
+    "Name": "Swordstalker",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/16/Swordstalker-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "379",
+    "Name": "La Jinn the Mystical Genie of the Lamp",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/5c/LaJinntheMysticalGenieoftheLamp-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "380",
+    "Name": "Blue-Eyes Ultimate Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/20/BlueEyesUltimateDragon-TF05-JP-VG.png"
+  },
+  {
+    "Id": "381",
+    "Name": "Toon Alligator",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/61/ToonAlligator-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "382",
+    "Name": "Rude Kaiser",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/dd/RudeKaiser-TF03-JP-VG.jpg"
+  },
+  {
+    "Id": "383",
+    "Name": "Parrot Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/8c/ParrotDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "384",
+    "Name": "Dark Rabbit",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c5/DarkRabbit-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "385",
+    "Name": "Bickuribox",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/fe/Bickuribox-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "386",
+    "Name": "Harpie's Pet Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/62/HarpiesPetDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "387",
+    "Name": "Mystic Lamp",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/de/MysticLamp-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "388",
+    "Name": "Pendulum Machine",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/bf/PendulumMachine-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "389",
+    "Name": "Giltia the D. Knight",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/01/GiltiatheDKnight-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "390",
+    "Name": "Launcher Spider",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e3/LauncherSpider-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "391",
+    "Name": "Zoa",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/15/Zoa-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "392",
+    "Name": "Metalzoa",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d5/Metalzoa-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "393",
+    "Name": "Zone Eater",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/80/ZoneEater-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "394",
+    "Name": "Steel Scorpion",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/77/SteelScorpion-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "395",
+    "Name": "Dancing Elf",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e7/DancingElf-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "396",
+    "Name": "Ocubeam",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/fb/Ocubeam-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "397",
+    "Name": "Leghul",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/ba/Leghul-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "398",
+    "Name": "Ooguchi",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/0a/Ooguchi-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "399",
+    "Name": "Swordsman from a Foreign Land",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3d/SwordsmanfromaDistantLand-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "400",
+    "Name": "Emperor of the Land and Sea",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/49/EmperoroftheLandandSea-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "401",
+    "Name": "Ushi Oni",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/44/UshiOni-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "402",
+    "Name": "Monster Eye",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/23/MonsterEye-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "403",
+    "Name": "Leogun",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6b/Leogun-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "404",
+    "Name": "Tatsunootoshigo",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/fa/Tatsunootoshigo-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "405",
+    "Name": "Saber Slasher",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/c/c5/Foto_asesino_de_la_espada.jpg/revision/latest?cb=20130913031535&path-prefix=es"
+  },
+  {
+    "Id": "406",
+    "Name": "Yaiba Robo",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/bb/YaibaRobo-TF04-JP-VG.png"
+  },
+  {
+    "Id": "407",
+    "Name": "Machine King",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/58/MachineKing-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "408",
+    "Name": "Giant Mech-Soldier",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/9f/GiantMechSoldier-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "409",
+    "Name": "Metal Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/91/MetalDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "410",
+    "Name": "Mechanical Spider",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/6/6d/Foto_ara%C3%B1a_karakuri.jpg/revision/latest?cb=20120102230956&path-prefix=es"
+  },
+  {
+    "Id": "411",
+    "Name": "Bat",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/86/Bat-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "412",
+    "Name": "Giga-Tech Wolf",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/53/GigaTechWolf-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "413",
+    "Name": "Cyber Soldier",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f2/CyberSoldier-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "414",
+    "Name": "Shovel Crusher",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/ad/ShovelCrusher-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "415",
+    "Name": "Mechanicalchaser",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/de/Mechanicalchaser-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "416",
+    "Name": "Blocker",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/94/Blocker-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "417",
+    "Name": "Blast Juggler",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/eb/BlastJuggler-TF04-JP-VG.png"
+  },
+  {
+    "Id": "418",
+    "Name": "Golgoil",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/44/Golgoil-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "419",
+    "Name": "Giganto",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/8f/Giganto-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "420",
+    "Name": "Cyber-Stein",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/78/CyberStein-TF04-JP-VG.png"
+  },
+  {
+    "Id": "421",
+    "Name": "Cyber Commander",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/05/CyberCommander-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "422",
+    "Name": "Jinzo #7",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d4/Jinzo7-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "423",
+    "Name": "Dice Armadillo",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/fd/DiceArmadillo-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "424",
+    "Name": "Sky Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/2a/SkyDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "425",
+    "Name": "Thunder Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a4/ThunderDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "426",
+    "Name": "Stone D.",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/ed/StoneDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "427",
+    "Name": "Kaiser Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/0e/KaiserDragon-TF05-JP-VG.png"
+  },
+  {
+    "Id": "428",
+    "Name": "Magician of Faith",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/21/MagicianofFaith-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "429",
+    "Name": "Goddess of Whim",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a6/GoddessofWhim-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "430",
+    "Name": "Water Magician",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/07/WaterMagician-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "431",
+    "Name": "Ice Water",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e0/IceWater-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "432",
+    "Name": "Waterdragon Fairy",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/bf/WaterdragonFairy-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "433",
+    "Name": "Ancient Elf",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/9f/AncientElf-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "434",
+    "Name": "Beautiful Beast Trainer",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/2a/BeautifulBeastTrainer-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "435",
+    "Name": "Water Girl",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/9e/WaterGirl-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "436",
+    "Name": "White Dolphin",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/08/WhiteDolphin-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "437",
+    "Name": "Deepsea Shark",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/12/DeepseaShark-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "438",
+    "Name": "Metal Fish",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/5f/MetalFish-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "439",
+    "Name": "Bottom Dweller",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/11/BottomDweller-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "440",
+    "Name": "7 Colored Fish",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/8d/7ColoredFish-TF04-JP-VG.png"
+  },
+  {
+    "Id": "441",
+    "Name": "Mech Bass",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f1/MechBass-TF04-JP-VG.png"
+  },
+  {
+    "Id": "442",
+    "Name": "Aqua Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/24/AquaDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "443",
+    "Name": "Sea King Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/41/SeaKingDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "444",
+    "Name": "Turu-Purun",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/da/TuruPurun-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "445",
+    "Name": "Guardian of the Sea",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/9a/GuardianoftheSea-FMR-EN-VG.png/revision/latest?cb=20131221163951"
+  },
+  {
+    "Id": "446",
+    "Name": "Aqua Snake",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f0/AquaSnake-TF04-JP-VG.jpg/"
+  },
+  {
+    "Id": "447",
+    "Name": "Giant Red Seasnake",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/ba/GiantRedSeasnake-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "448",
+    "Name": "Spike Seadra",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6b/SpikeSeadra-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "449",
+    "Name": "30,000-Year White Turtle",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b3/30000YearWhiteTurtle-GX02-JP-VG.png"
+  },
+  {
+    "Id": "450",
+    "Name": "Kappa Avenger",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/83/KappaAvenger-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "451",
+    "Name": "Kanikabuto",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/40/Kanikabuto-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "452",
+    "Name": "Zarigun",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/5b/Zarigun-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "453",
+    "Name": "Millennium Golem",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6a/MillenniumGolem-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "454",
+    "Name": "Destroyer Golem",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/32/DestroyerGolem-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "455",
+    "Name": "Barrel Rock",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/0d/BarrelRock-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "456",
+    "Name": "Minomushi Warrior",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/87/MinomushiWarrior-TF04-JP-VG.png"
+  },
+  {
+    "Id": "457",
+    "Name": "Stone Ghost",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f4/StoneGhost-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "458",
+    "Name": "Kaminari Attack",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3b/KaminariAttack-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "459",
+    "Name": "Tripwire Beast",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/41/TripwireBeast-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "460",
+    "Name": "Bolt Escargot",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/04/BoltEscargot-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "461",
+    "Name": "Bolt Penguin",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f4/BoltPenguin-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "462",
+    "Name": "The Immortal of Thunder",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/03/TheImmortalofThunder-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "463",
+    "Name": "Electric Snake",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e6/ElectricSnake-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "464",
+    "Name": "Wing Eagle",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/9b/WingEagle-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "465",
+    "Name": "Punished Eagle",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c6/PunishedEagle-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "466",
+    "Name": "Skull Red Bird",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/8a/SkullRedBird-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "467",
+    "Name": "Crimson Sunbird",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/53/CrimsonSunbird-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "468",
+    "Name": "Queen Bird",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/ae/QueenBird-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "469",
+    "Name": "Armed Ninja",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/ea/ArmedNinja-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "470",
+    "Name": "Magical Ghost",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/ed/MagicalGhost-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "471",
+    "Name": "Soul Hunter",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/25/SoulHunter-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "472",
+    "Name": "Air Eater",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/0c/AirEater-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "473",
+    "Name": "Vermillion Sparrow",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/16/VermillionSparrow-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "474",
+    "Name": "Sea Kamen",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/bc/SeaKamen-TF04-JP-VG.png"
+  },
+  {
+    "Id": "475",
+    "Name": "Sinister Serpent",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/ee/SinisterSerpent-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "476",
+    "Name": "Ganigumo",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/20/Ganigumo-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "477",
+    "Name": "Alinsection",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/76/Alinsection-GX02-JP-VG.png"
+  },
+  {
+    "Id": "478",
+    "Name": "Insect Soldiers of the Sky",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/07/InsectSoldiersoftheSky-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "479",
+    "Name": "Cockroach Knight",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/ea/CockroachKnight-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "480",
+    "Name": "Kuwagata A",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/90/Kuwagata%CE%B1-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "481",
+    "Name": "Burglar",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/aa/Burglar-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "482",
+    "Name": "Pragtical",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/71/Pragtical-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "483",
+    "Name": "Garvas",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/81/Garvas-TF04-JP-VG.png"
+  },
+  {
+    "Id": "484",
+    "Name": "Ameba",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b7/Ameba-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "485",
+    "Name": "Korogashi",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/0b/Korogashi-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "486",
+    "Name": "Boo Koo",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6f/BooKoo-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "487",
+    "Name": "Flower Wolf",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/ad/FlowerWolf-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "488",
+    "Name": "Rainbow Flower",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/5c/RainbowFlower-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "489",
+    "Name": "Barrel Lily",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a6/BarrelLily-TF04-JP-VG.png"
+  },
+  {
+    "Id": "490",
+    "Name": "Needle Ball",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/52/NeedleBall-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "491",
+    "Name": "Peacock",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/65/Peacock-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "492",
+    "Name": "Hoshiningen",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/34/Hoshiningen-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "493",
+    "Name": "Maha Vailo",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/63/MahaVailo-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "494",
+    "Name": "Rainbow Marine Mermaid",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/be/RainbowMarineMermaid-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "495",
+    "Name": "Musician King",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/76/MusicianKing-TF04-JP-VG.png"
+  },
+  {
+    "Id": "496",
+    "Name": "Wilmee",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/45/Wilmee-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "497",
+    "Name": "Yado Karu",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/28/YadoKaru-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "498",
+    "Name": "Morinphen",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/ff/Morinphen-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "499",
+    "Name": "Kattapillar",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b0/Kattapillar-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "500",
+    "Name": "Dragon Seeker",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/ed/DragonSeeker-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "501",
+    "Name": "Man-Eater Bug",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/0e/ManEaterBug-TF04-JP-VG.png"
+  },
+  {
+    "Id": "502",
+    "Name": "D. Human",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/fd/DHuman-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "503",
+    "Name": "Turtle Raccoon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/9c/TurtleRaccoon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "504",
+    "Name": "Fungi of the Musk",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/ca/FungioftheMusk-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "505",
+    "Name": "Prisman",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/28/Prisman-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "506",
+    "Name": "Gale Dogra",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3a/GaleDogra-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "507",
+    "Name": "Crazy Fish",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/bb/CrazyFish-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "508",
+    "Name": "Cyber Saurus",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6f/CyberSaurus-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "509",
+    "Name": "Bracchio-raidus",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/fd/Bracchioraidus-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "510",
+    "Name": "Laughing Flower",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/cb/LaughingFlower-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "511",
+    "Name": "Bean Soldier",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/aa/BeanSoldier-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "512",
+    "Name": "Cannon Soldier",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/62/CannonSoldier-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "513",
+    "Name": "Guardian of the Throne Room",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6d/GuardianoftheThroneRoom-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "514",
+    "Name": "Brave Scizzar",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f7/BraveScizzar-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "515",
+    "Name": "The Statue of Easter Island",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/86/TheStatueofEasterIsland-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "516",
+    "Name": "Muka Muka",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a2/MukaMuka-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "517",
+    "Name": "Sand Stone",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c8/SandStone-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "518",
+    "Name": "Boulder Tortoise",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/5b/BoulderTortoise-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "519",
+    "Name": "Fire Kraken",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/15/FireKraken-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "520",
+    "Name": "Turtle Bird",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/59/TurtleBird-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "521",
+    "Name": "Skullbird",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/8c/Skullbird-TF04-JP-VG.png"
+  },
+  {
+    "Id": "522",
+    "Name": "Monstrous Bird",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/bc/MonstrousBird-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "523",
+    "Name": "The Bistro Butcher",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/fe/TheBistroButcher-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "524",
+    "Name": "Star Boy",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e2/StarBoy-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "525",
+    "Name": "Spirit of the Mountain",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/92/SpiritoftheMountain-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "526",
+    "Name": "Neck Hunter",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/dc/NeckHunter-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "527",
+    "Name": "Milus Radiant",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/88/MilusRadiant-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "528",
+    "Name": "Togex",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d2/Togex-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "529",
+    "Name": "Flame Cerebrus",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6c/FlameCerebrus-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "530",
+    "Name": "Eldeen",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c3/Eldeen-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "531",
+    "Name": "Mystical Sand",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/9a/MysticalSand-TF04-JP-VG.png"
+  },
+  {
+    "Id": "532",
+    "Name": "Gemini Elf",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/ca/GeminiElf-TF04-JP-VG.png"
+  },
+  {
+    "Id": "533",
+    "Name": "Kwagar Hercules",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/ca/KwagarHercules-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "534",
+    "Name": "Minar",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/42/Minar-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "535",
+    "Name": "Kamakiriman",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6b/Kamakiriman-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "536",
+    "Name": "Mechaleon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/7e/Mechaleon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "537",
+    "Name": "Mega Thunderball",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c4/MegaThunderball-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "538",
+    "Name": "Niwatori",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/df/Niwatori-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "539",
+    "Name": "Corroding Shark",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/33/CorrodingShark-TF04-JP-VG.png"
+  },
+  {
+    "Id": "540",
+    "Name": "Skelengel",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3f/Skelengel-TF05-JP-VG.png"
+  },
+  {
+    "Id": "541",
+    "Name": "Hane-Hane",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/92/HaneHane-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "542",
+    "Name": "Misairuzame",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/5a/Misairuzame-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "543",
+    "Name": "Tongyo",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/52/Tongyo-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "544",
+    "Name": "Dharma Cannon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/74/DharmaCannon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "545",
+    "Name": "Skelgon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d2/Skelgon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "546",
+    "Name": "Wow Warrior",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/85/WowWarrior-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "547",
+    "Name": "Griggle",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e8/Griggle-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "548",
+    "Name": "Bone Mouse",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d9/BoneMouse-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "549",
+    "Name": "Frog the Jam",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/7/74/Foto_sapo_viscoso.jpg/revision/latest?cb=20120617031555&path-prefix=es"
+  },
+  {
+    "Id": "550",
+    "Name": "Behegon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/2d/Behegon-TF04-JP-VG.png"
+  },
+  {
+    "Id": "551",
+    "Name": "Dark Elf",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/83/DarkElf-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "552",
+    "Name": "Winged Dragon, Guardian of the Fortress #2",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/cd/WingedDragonGuardianoftheFortress2-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "553",
+    "Name": "Mushroom Man #2",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/dd/MushroomMan2-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "554",
+    "Name": "Lava Battleguard",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e7/LavaBattleguard-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "555",
+    "Name": "Tyhone #2",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/0f/Tyhone2-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "556",
+    "Name": "The Wandering Doomed",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/53/TheWanderingDoomed-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "557",
+    "Name": "Steel Ogre Grotto #1",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/5e/SteelOgreGrotto1-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "558",
+    "Name": "Pot the Trick",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/45/PottheTrick-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "559",
+    "Name": "Oscillo Hero",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/4/49/Foto_h%C3%A9roe_oscillo.jpg/revision/latest?cb=20120826185701&path-prefix=es"
+  },
+  {
+    "Id": "560",
+    "Name": "Invader from Another Dimension",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/ab/InvaderfromAnotherDimension-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "561",
+    "Name": "Lesser Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/30/LesserDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "562",
+    "Name": "Needle Worm",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/06/NeedleWorm-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "563",
+    "Name": "Wretched Ghost of the Attic",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/36/WretchedGhostoftheAttic-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "564",
+    "Name": "Great Mammoth of Goldfine",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c3/GreatMammothofGoldfine-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "565",
+    "Name": "Man-eating Black Shark",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/9a/ManeatingBlackShark-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "566",
+    "Name": "Yormungarde",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/de/Yormungarde-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "567",
+    "Name": "Darkworld Thorns",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/15/DarkworldThorns-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "568",
+    "Name": "Anthrosaurus",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/56/Anthrosaurus-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "569",
+    "Name": "Drooling Lizard",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/ad/DroolingLizard-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "570",
+    "Name": "Trakadon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b9/Trakodon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "571",
+    "Name": "B. Dragon Jungle King",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3e/BDragonJungleKing-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "572",
+    "Name": "Empress Judge",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/58/EmpressJudge-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "573",
+    "Name": "Little D",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/70/LittleD-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "574",
+    "Name": "Witch of the Black Forest",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/2c/WitchoftheBlackForest-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "575",
+    "Name": "Ancient One of the Deep Forest",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/7b/AncientOneoftheDeepForest-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "576",
+    "Name": "Giant Scorpion of the Tundra",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f3/GiantScorpionoftheTundra-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "577",
+    "Name": "Crow Goblin",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/9e/CrowGoblin-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "578",
+    "Name": "Leo Wizard",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/40/LeoWizard-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "579",
+    "Name": "Abyss Flower",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/5e/AbyssFlower-GX02-JP-VG.png"
+  },
+  {
+    "Id": "580",
+    "Name": "Patrol Robo",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/dd/PatrolRobo-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "581",
+    "Name": "Takuhee",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/30/Takuhee-TF04-JP-VG.png"
+  },
+  {
+    "Id": "582",
+    "Name": "Dark Witch",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c6/DarkWitch-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "583",
+    "Name": "Destiny Board",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/70/DestinyBoard-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "584",
+    "Name": "\"Spirit Message \"\"I\"\"\"",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a5/SpiritMessageI-TF04-EN-VG.jpg"
+  },
+  {
+    "Id": "585",
+    "Name": "\"Spirit Message \"\"N\"\"\"",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/99/SpiritMessageN-TF04-EN-VG.jpg"
+  },
+  {
+    "Id": "586",
+    "Name": "\"Spirit Message \"\"A\"\"\"",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/2d/SpiritMessageA-TF04-EN-VG.jpg"
+  },
+  {
+    "Id": "587",
+    "Name": "\"Spirit Message \"\"L\"\"\"",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/09/SpiritMessageL-TF04-EN-VG.jpg"
+  },
+  {
+    "Id": "588",
+    "Name": "Living Vase",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c6/LivingVase-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "589",
+    "Name": "Tentacle Plant",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/36/TentaclePlant-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "590",
+    "Name": "Beaked Snake",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/13/BeakedSnake-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "591",
+    "Name": "Morphing Jar",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a7/MorphingJar-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "592",
+    "Name": "Muse-A",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/4e/MuseA-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "593",
+    "Name": "Giant Turtle Who Feeds on Flames",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/2c/GiantTurtleWhoFeedsonFlames-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "594",
+    "Name": "Rose Spectre of Dunn",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/32/RoseSpectreofDunn-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "595",
+    "Name": "Fiend Reflection #1",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/13/FiendReflection1-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "596",
+    "Name": "Ghoul with an Appetite",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/4f/GhoulwithanAppetite-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "597",
+    "Name": "Pale Beast",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d1/PaleBeast-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "598",
+    "Name": "Little Chimera",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/34/LittleChimera-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "599",
+    "Name": "Violent Rain",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/90/ViolentRain-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "600",
+    "Name": "Key Mace #2",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/40/KeyMace2-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "601",
+    "Name": "Tenderness",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b6/Tenderness-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "602",
+    "Name": "Penguin Soldier",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/06/PenguinSoldier-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "603",
+    "Name": "Fairy Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f7/FairyDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "604",
+    "Name": "Obese Marmot of Nefariousness",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/fb/ObeseMarmotofNefariousness-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "605",
+    "Name": "Liquid Beast",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/72/LiquidBeast-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "606",
+    "Name": "Twin Long Rods #2",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f4/TwinLongRods2-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "607",
+    "Name": "Great Bill",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/ab/GreatBill-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "608",
+    "Name": "Shining Friendship",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b5/ShiningFriendship-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "609",
+    "Name": "Bladefly",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/89/Bladefly-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "610",
+    "Name": "Electric Lizard",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a1/ElectricLizard-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "611",
+    "Name": "Hiro's Shadow Scout",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/33/HirosShadowScout-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "612",
+    "Name": "Lady of Faith",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/8c/LadyofFaith-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "613",
+    "Name": "Twin-Headed Thunder Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/61/TwinHeadedThunderDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "614",
+    "Name": "Hunter Spider",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b9/HunterSpider-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "615",
+    "Name": "Armored Starfish",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6c/ArmoredStarfish-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "616",
+    "Name": "Hourglass of Courage",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/98/HourglassofCourage-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "617",
+    "Name": "Marine Beast",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f4/MarineBeast-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "618",
+    "Name": "Warrior of Tradition",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/04/WarriorofTradition-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "619",
+    "Name": "Rock Spirit",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6b/RockSpirit-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "620",
+    "Name": "Snakeyashi",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/76/Snakeyashi-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "621",
+    "Name": "Succubus Knight",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/16/SuccubusKnight-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "622",
+    "Name": "Ill Witch",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/61/IllWitch-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "623",
+    "Name": "The Thing That Hides in the Mud",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/81/TheThingThatHidesintheMud-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "624",
+    "Name": "High Tide Gyojin",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e5/HighTideGyojin-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "625",
+    "Name": "Fairy of the Fountain",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6f/FairyoftheFountain-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "626",
+    "Name": "Amazon of the Seas",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/3/3a/Foto_amazona_de_los_mares.jpg/revision/latest?cb=20120413075956&path-prefix=es"
+  },
+  {
+    "Id": "627",
+    "Name": "Nekogal #2",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e8/Nekogal2-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "628",
+    "Name": "Witch's Apprentice",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/05/WitchsApprentice-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "629",
+    "Name": "Armored Rat",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6e/ArmoredRat-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "630",
+    "Name": "Ancient Lizard Warrior",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/39/AncientLizardWarrior-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "631",
+    "Name": "Maiden of the Moonlight",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b4/MaidenoftheMoonlight-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "632",
+    "Name": "Stone Ogre Grotto",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/11/StoneOgreGrotto-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "633",
+    "Name": "Winged Egg of New Life",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/ea/WingedEggofNewLife-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "634",
+    "Name": "Night Lizard",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b9/NightLizard-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "635",
+    "Name": "Queen's Double",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/7a/QueensDouble-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "636",
+    "Name": "Blue-Winged Crown",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a3/BlueWingedCrown-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "637",
+    "Name": "Trent",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/11/Trent-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "638",
+    "Name": "Queen of Autumn Leaves",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e0/QueenofAutumnLeaves-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "639",
+    "Name": "Amphibious Bugroth",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f2/AmphibiousBugroth-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "640",
+    "Name": "Acid Crawler",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/42/AcidCrawler-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "641",
+    "Name": "Invader of the Throne",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a3/InvaderoftheThrone-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "642",
+    "Name": "Mystical Sheep #1",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e1/MysticalSheep1-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "643",
+    "Name": "Disk Magician",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/00/DiskMagician-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "644",
+    "Name": "Flame Viper",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f4/FlameViper-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "645",
+    "Name": "Royal Guard",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/73/RoyalGuard-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "646",
+    "Name": "Gruesome Goo",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a7/GruesomeGoo-TF04-JP-VG.png"
+  },
+  {
+    "Id": "647",
+    "Name": "Hyosube",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/87/Hyosube-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "648",
+    "Name": "Machine Attacker",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e5/MachineAttacker-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "649",
+    "Name": "Hibikime",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/9a/Hibikime-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "650",
+    "Name": "Whiptail Crow",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/05/WhiptailCrow-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "651",
+    "Name": "Kunai with Chain",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/5d/KunaiwithChain-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "652",
+    "Name": "Magical Labyrinth",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/7b/MagicalLabyrinth-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "653",
+    "Name": "Warrior Elimination",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a1/WarriorElimination-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "654",
+    "Name": "Salamandra",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/86/Salamandra-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "655",
+    "Name": "Cursebreaker",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/2/24/Foto_rompemaldiciones.jpg/revision/latest?cb=20131216072259&path-prefix=es"
+  },
+  {
+    "Id": "656",
+    "Name": "Eternal Rest",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/eb/EternalRest-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "657",
+    "Name": "Megamorph",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/af/Megamorph-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "658",
+    "Name": "Metalmorph",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/7b/Metalmorph-TF04-JP-VG.png"
+  },
+  {
+    "Id": "659",
+    "Name": "Winged Trumpeter",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/3/39/Foto_trompetista_alado.jpg/revision/latest?cb=20130624053447&path-prefix=es"
+  },
+  {
+    "Id": "660",
+    "Name": "Stain Storm",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e2/StainStorm-FMR-EN-VG.png/revision/latest?cb=20131215203725"
+  },
+  {
+    "Id": "661",
+    "Name": "Crush Card",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e3/CrushCardVirus-TF04-JP-VG-2.jpg"
+  },
+  {
+    "Id": "662",
+    "Name": "Eradicating Aerosol",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/be/EradicatingAerosol-TF04-JP-VG.png"
+  },
+  {
+    "Id": "663",
+    "Name": "Breath of Light",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a0/BreathofLight-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "664",
+    "Name": "Eternal Drought",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6a/EternalDrought-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "665",
+    "Name": "Curse of Millennium Shield",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/73/CurseofMillenniumShield-TSC-EN-VG-card.png/revision/latest?cb=20070106173523"
+  },
+  {
+    "Id": "666",
+    "Name": "Yamadron Ritual",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e1/YamadronRitual-TSC-EN-VG-card.png/revision/latest/scale-to-width-down/216?cb=20070106231813"
+  },
+  {
+    "Id": "667",
+    "Name": "Gate Guardian Ritual",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/a/a4/Foto_ritual_del_guardi%C3%A1n_de_la_puerta.jpg/revision/latest?cb=20130625212511&path-prefix=es"
+  },
+  {
+    "Id": "668",
+    "Name": "Bright Castle",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/1/19/Foto_palacio_brillante.jpg/revision/latest?cb=20111224201533&path-prefix=es"
+  },
+  {
+    "Id": "669",
+    "Name": "Shadow Spell",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/9e/ShadowSpell-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "670",
+    "Name": "Black Luster Ritual",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/80/BlackLusterRitual-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "671",
+    "Name": "Zera Ritual",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/50/ZeraRitual-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "672",
+    "Name": "Harpie's Feather Duster",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c5/HarpiesFeatherDuster-TF04-JP-VG.png"
+  },
+  {
+    "Id": "673",
+    "Name": "War-Lion Ritual",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e3/WarLionRitual-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "674",
+    "Name": "Beastly Mirror Ritual",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c8/BeastlyMirrorRitual-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "675",
+    "Name": "Ultimate Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/c/c5/Foto_drag%C3%B3n_definitivo.jpg/revision/latest?cb=20130625213653&path-prefix=es"
+  },
+  {
+    "Id": "676",
+    "Name": "Commencement Dance",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3f/CommencementDance-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "677",
+    "Name": "Hamburger Recipe",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e4/HamburgerRecipe-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "678",
+    "Name": "Revival of Sennen Genjin",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/2/27/Foto_resurgimiento_de_sennen_genjin.jpg/revision/latest?cb=20130625210317&path-prefix=es"
+  },
+  {
+    "Id": "679",
+    "Name": "Novox's Prayer",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/5f/NovoxsPrayer-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "680",
+    "Name": "Curse of Tri-Horned Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/e/e9/Foto_maldici%C3%B3n_del_drag%C3%B3n_de_tres_cuernos.jpg/revision/latest?cb=20130625215622&path-prefix=es"
+  },
+  {
+    "Id": "681",
+    "Name": "House of Adhesive Tape",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b8/HouseofAdhesiveTape-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "682",
+    "Name": "Eatgaboon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/79/Eatgaboon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "683",
+    "Name": "Bear Trap",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/87/BearTrap-FMR-EN-VG.png"
+  },
+  {
+    "Id": "684",
+    "Name": "Invisible Wire",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/5/57/Foto_alambre_invisible.jpg/revision/latest?cb=20130626222913&path-prefix=es"
+  },
+  {
+    "Id": "685",
+    "Name": "Acid Trap Hole",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/34/AcidTrapHole-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "686",
+    "Name": "Widespread Ruin",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c2/WidespreadRuin-TF04-JP-VG-2.jpg"
+  },
+  {
+    "Id": "687",
+    "Name": "Goblin Fan",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/24/GoblinFan-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "688",
+    "Name": "Bad Reaction to Simochi",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/86/BadReactiontoSimochi-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "689",
+    "Name": "Reverse Trap",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/4a/ReverseTrap-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "690",
+    "Name": "Fake Trap",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/55/FakeTrap-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "691",
+    "Name": "Revived Serpent Night Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/7/7c/Foto_drag%C3%B3n_serpiente_de_la_noche_resurrecto.jpg/revision/latest?cb=20130626230532&path-prefix=es"
+  },
+  {
+    "Id": "692",
+    "Name": "Turtle Oath",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d0/TurtleOath-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "693",
+    "Name": "Contract of Mask",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/a/a1/Foto_contrato_de_m%C3%A1scara.jpg/revision/latest?cb=20130627004822&path-prefix=es"
+  },
+  {
+    "Id": "694",
+    "Name": "Resurrection of Chakra",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/7e/ResurrectionofChakra-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "695",
+    "Name": "Puppet Ritual",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/17/PuppetRitual-OW.png"
+  },
+  {
+    "Id": "696",
+    "Name": "Javelin Beetle Pact",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/03/JavelinBeetlePact-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "697",
+    "Name": "Garma Sword Oath",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/e/e0/Foto_juramento_de_la_espada_garma.jpg/revision/latest?cb=20120603031342&path-prefix=es"
+  },
+  {
+    "Id": "698",
+    "Name": "Cosmo Queen's Prayer",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/5/58/Foto_oraci%C3%B3n_de_la_reina_de_cosmo.jpg/revision/latest?cb=20130626224304&path-prefix=es"
+  },
+  {
+    "Id": "699",
+    "Name": "Revival of Dokurorider",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/23/RevivalofDokurorider-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "700",
+    "Name": "Fortress Whale's Oath",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/51/FortressWhalesOath-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "701",
+    "Name": "Performance of Sword",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/2b/PerformanceofSword-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "702",
+    "Name": "Hungry Burger",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/ec/HungryBurger-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "703",
+    "Name": "Sengenjin",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a1/Sengenjin-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "704",
+    "Name": "Skull Guardian",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/17/SkullGuardian-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "705",
+    "Name": "Tri-Horned Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/4/4e/Foto_drag%C3%B3n_de_tres_cuernos.jpg/revision/latest?cb=20111128160527&path-prefix=es"
+  },
+  {
+    "Id": "706",
+    "Name": "Serpent Night Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/ac/SerpentNightDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "707",
+    "Name": "Skull Knight",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/32/SkullKnight-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "708",
+    "Name": "Cosmo Queen",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/05/CosmoQueen-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "709",
+    "Name": "Chakra",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/2d/Chakra-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "710",
+    "Name": "Crab Turtle",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/0e/CrabTurtle-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "711",
+    "Name": "Mikazukinoyaiba",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e2/Mikazukinoyaiba-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "712",
+    "Name": "Meteor Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b3/MeteorDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "713",
+    "Name": "Meteor B. Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/42/MeteorBDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "714",
+    "Name": "Firewing Pegasus",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b6/FirewingPegasus-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "715",
+    "Name": "Psycho-Puppet",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/0/0c/Foto_psico-t%C3%ADtere.jpg/revision/latest?cb=20130627010414&path-prefix=es"
+  },
+  {
+    "Id": "716",
+    "Name": "Garma Sword",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/55/GarmaSword-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "717",
+    "Name": "Javelin Beetle",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a0/JavelinBeetle-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "718",
+    "Name": "Fortress Whale",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/1f/FortressWhale-TF04-EN-VG.png"
+  },
+  {
+    "Id": "719",
+    "Name": "Dokurorider",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/67/Dokurorider-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "720",
+    "Name": "Mask of Shine & Dark",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/e/e6/Foto_m%C3%A1scara_de_brillo_y_oscuridad.jpg/revision/latest?cb=20130627010035&path-prefix=es"
+  },
+  {
+    "Id": "721",
+    "Name": "Magician of Black Chaos",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b1/MagicianofBlackChaos-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "722",
+    "Name": "Dark Magic Ritual",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/1/1e/Foto_ritual_de_magia_negra.jpg/revision/latest?cb=20120321044837&path-prefix=es"
+  },
+  {
+    "Id": "723",
+    "Name": "Slot Machine",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/40/SlotMachine-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "724",
+    "Name": "Space Megatron",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/6/6d/Foto_megatr%C3%B3n_del_espacio.jpg/revision/latest?cb=20150208013219&path-prefix=es"
+  },
+  {
+    "Id": "725",
+    "Name": "Red Archery Girl",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/55/RedArcheryGirl-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "726",
+    "Name": "Ryu-Ran",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/da/RyuRan-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "727",
+    "Name": "Manga Ryu-Ran",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/49/MangaRyuRan-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "728",
+    "Name": "Toon Mermaid",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/81/ToonMermaid-GX02-JP-VG.jpg"
+  },
+  {
+    "Id": "729",
+    "Name": "Toon Summoned Skull",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/36/ToonSummonedSkull-GX02-JP-VG.jpg"
+  },
+  {
+    "Id": "730",
+    "Name": "Dark-Eyes Illusionist",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/11/DarkEyesIllusionist-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "731",
+    "Name": "Relinquished",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/fa/Relinquished-TF04-JP-VG.png"
+  },
+  {
+    "Id": "732",
+    "Name": "Jigen Bakudan",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/bc/JigenBakudan-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "733",
+    "Name": "Thousand-Eyes Idol",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/98/ThousandEyesIdol-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "734",
+    "Name": "Thousand-Eyes Restrict",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/2f/ThousandEyesRestrict-TF04-JP-VG.png"
+  },
+  {
+    "Id": "735",
+    "Name": "Steel Ogre Grotto #2",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/cc/SteelOgreGrotto2-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "736",
+    "Name": "Blast Sphere",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/42/BlastSphere-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "737",
+    "Name": "Hyozanryu",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f9/Hyozanryu-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "738",
+    "Name": "Alpha The Magnet Warrior",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/0/0e/Foto_alfa_el_guerrero_magn%C3%A9tico.jpg/revision/latest?cb=20111026055236&path-prefix=es"
+  },
+  {
+    "Id": "739",
+    "Name": "Legion the Fiend Jester",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c9/LegiontheFiendJester-OW.png"
+  },
+  {
+    "Id": "740",
+    "Name": "Invitation to a Dark Sleep",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/51/InvitationtoaDarkSleep-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "741",
+    "Name": "Lord of D.",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/27/LordofD-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "742",
+    "Name": "Red-Eyes Black Metal Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/67/RedEyesBlackMetalDragon-GX06-JP-VG.jpg"
+  },
+  {
+    "Id": "743",
+    "Name": "Barrel Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3c/BarrelDragon-TF04-EN-VG.png"
+  },
+  {
+    "Id": "744",
+    "Name": "Hannibal Necromancer",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c7/HannibalNecromancer-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "745",
+    "Name": "Panther Warrior",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d0/PantherWarrior-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "746",
+    "Name": "Three-Headed Geedo",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b8/ThreeHeadedGeedo-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "747",
+    "Name": "Gazelle the King of Mythical Beasts",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/21/GazelletheKingofMythicalBeasts-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "748",
+    "Name": "Stone Statue of the Aztecs",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/21/StoneStatueoftheAztecs-TF04-JP-VG.png"
+  },
+  {
+    "Id": "749",
+    "Name": "Berfomet",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a3/Berfomet-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "750",
+    "Name": "Chimera the Flying Mythical Beast",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f6/ChimeratheFlyingMythicalBeast-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "751",
+    "Name": "Gear Golem the Moving Fortress",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c4/GearGolemtheMovingFortress-TF04-JP-VG.png"
+  },
+  {
+    "Id": "752",
+    "Name": "Jinzo",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/4e/Jinzo-TF04-JP-VG.png"
+  },
+  {
+    "Id": "753",
+    "Name": "Swordsman of Landstar",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d8/SwordsmanofLandstar-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "754",
+    "Name": "Cyber Raider",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/60/CyberRaider-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "755",
+    "Name": "The Fiend Megacyber",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/49/TheFiendMegacyber-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "756",
+    "Name": "Reflect Bounder",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d0/ReflectBounder-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "757",
+    "Name": "Beta The Magnet Warrior",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/36/BetaTheMagnetWarrior-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "758",
+    "Name": "Big Shield Gardna",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/ed/BigShieldGardna-TF04-JP-VG-2.jpg"
+  },
+  {
+    "Id": "759",
+    "Name": "Doll of Demise",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/71/DollofDemise-OW.png"
+  },
+  {
+    "Id": "760",
+    "Name": "Dark Magician Girl",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c1/DarkMagicianGirl-TF04-JP-VG-1.png/"
+  },
+  {
+    "Id": "761",
+    "Name": "Alligator's Sword",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/20/AlligatorsSword-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "762",
+    "Name": "Insect Queen",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/47/InsectQueen-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "763",
+    "Name": "Parasite Paracide",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a8/ParasiteParacide-TF04-JP-VG.png"
+  },
+  {
+    "Id": "764",
+    "Name": "Skull-Mark Lady Bug",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/6/62/Foto_dama_insecto_marca_de_cr%C3%A1neo.jpg/revision/latest?cb=20121006014910&path-prefix=es"
+  },
+  {
+    "Id": "765",
+    "Name": "Tiny Guardian",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/6/6e/Foto_peque%C3%B1o_guardi%C3%A1n_alado.jpg/revision/latest?cb=20120207033355&path-prefix=es"
+  },
+  {
+    "Id": "766",
+    "Name": "Pinch Hopper",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e0/PinchHopper-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "767",
+    "Name": "Blue-Eyes Toon Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/db/BlueEyesToonDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "768",
+    "Name": "The Unhappy Maiden",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a5/TheUnhappyMaiden-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "769",
+    "Name": "Wall of Illusion",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/55/WallofIllusion-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "770",
+    "Name": "Neo the Magic Swordsman",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/ca/NeotheMagicSwordsman-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "771",
+    "Name": "Man-Eating Treasure Chest",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f4/ManEatingTreasureChest-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "772",
+    "Name": "Sorcerer of the Doomed",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a3/SorcereroftheDoomed-TF04-JP-VG.png"
+  },
+  {
+    "Id": "773",
+    "Name": "Sword Hunter",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3a/SwordHunter-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "774",
+    "Name": "Drill Bug",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/37/DrillBug-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "775",
+    "Name": "Deepsea Warrior",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/85/DeepseaWarrior-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "776",
+    "Name": "Bite Shoes",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3a/BiteShoes-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "777",
+    "Name": "Spikebot",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/ed/Spikebot-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "778",
+    "Name": "Beast of Gilfer",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/ed/ArchfiendofGilfer-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "779",
+    "Name": "The Portrait's Secret",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f2/ThePortraitsSecret-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "780",
+    "Name": "The Gross Ghost of Fled Dreams",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/e/e8/Foto_el_fantasma_ordinario_de_escapa_sue%C3%B1os.jpg/revision/latest?cb=20120311001542&path-prefix=es"
+  },
+  {
+    "Id": "781",
+    "Name": "Brain Control",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/37/BrainControl-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "782",
+    "Name": "Anti Raigeki",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6e/AntiRaigeki-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "783",
+    "Name": "Black Illusion Ritual",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/67/BlackIllusionRitual-TF04-JP-VG.png"
+  },
+  {
+    "Id": "784",
+    "Name": "Change of Heart",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/5e/ChangeofHeart-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "785",
+    "Name": "Multiply",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/5d/Multiply-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "786",
+    "Name": "Exile of the Wicked",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/88/ExileoftheWicked-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "787",
+    "Name": "Last Day of Witch",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/50/LastDayofWitch-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "788",
+    "Name": "Restructer Revolution",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/92/RestructerRevolution-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "789",
+    "Name": "Pot of Greed",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/82/PotofGreed-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "790",
+    "Name": "The Inexperienced Spy",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/39/TheInexperiencedSpy-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "791",
+    "Name": "Gate Sword",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/c/c2/Foto_espada_del_portal.jpg/revision/latest?cb=20141220035507&path-prefix=es"
+  },
+  {
+    "Id": "792",
+    "Name": "Steel Fan Fighter",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/3/32/Foto_luchador_del_abanico_de_acero.jpg/revision/latest?cb=20141220014653&path-prefix=es"
+  },
+  {
+    "Id": "793",
+    "Name": "Leopard Girl",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/8e/LeopardGirl-ROD-EN-VG-card.png/revision/latest?cb=20070105202524"
+  },
+  {
+    "Id": "794",
+    "Name": "The Last Warrior from Another Planet",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/e/ec/Foto_el_%C3%BAltimo_guerrero_de_otro_planeta.jpg/revision/latest?cb=20120617043231&path-prefix=es"
+  },
+  {
+    "Id": "795",
+    "Name": "Dunames Dark Witch",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/85/DunamesDarkWitch-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "796",
+    "Name": "Garnecia Elefantis",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b4/GarneciaElefantis-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "797",
+    "Name": "Total Defense Shogun",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3a/TotalDefenseShogun-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "798",
+    "Name": "Beast of Talwar",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/36/BeastofTalwar-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "799",
+    "Name": "Cyber-Tech Alligator",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/00/CyberTechAlligator-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "800",
+    "Name": "Talons of Shurilane",
+    "Pic": "https://i.pinimg.com/originals/84/7b/cb/847bcb2263d4d7ee72b71f40e8d2969f.jpg"
+  },
+  {
+    "Id": "801",
+    "Name": "The Stern Mystic",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c5/TheSternMystic-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "802",
+    "Name": "Baron of the Fiend Sword",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3e/BaronoftheFiendSword-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "803",
+    "Name": "Shining Abyss",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/64/ShiningAbyss-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "804",
+    "Name": "Headless Knight",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/d/d4/Foto_caballero_sin_cabeza.jpg/revision/latest?cb=20120528022739&path-prefix=es"
+  },
+  {
+    "Id": "805",
+    "Name": "Soldier Ari",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/7/70/Foto_hormiga_soldado.jpg/revision/latest?cb=20141220002002&path-prefix=es"
+  },
+  {
+    "Id": "806",
+    "Name": "Gearfried the Iron Knight",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/78/GearfriedtheIronKnight-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "807",
+    "Name": "Humanoid Slime",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a3/HumanoidSlime-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "808",
+    "Name": "Worm Drake",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/33/WormDrake-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "809",
+    "Name": "Humanoid Worm Drake",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d6/HumanoidWormDrake-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "810",
+    "Name": "Revival Jam",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/dd/RevivalJam-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "811",
+    "Name": "Buster Blader",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a5/BusterBlader-TF04-JP-VG-Ver1.jpg"
+  },
+  {
+    "Id": "812",
+    "Name": "Dark Necrofear",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e6/DarkNecrofear-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "813",
+    "Name": "Cyber Jar",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f6/CyberJar-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "814",
+    "Name": "Banisher of the Light",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/93/BanisheroftheLight-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "815",
+    "Name": "Giant Rat",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f7/GiantRat-TF04-JP-VG.png"
+  },
+  {
+    "Id": "816",
+    "Name": "Senju of the Thousand Hands",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/11/SenjuoftheThousandHands-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "817",
+    "Name": "UFO Turtle",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c2/UFOTurtle-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "818",
+    "Name": "Flash Assailant",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/5f/FlashAssailant-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "819",
+    "Name": "Karate Man",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b5/KarateMan-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "820",
+    "Name": "Dark Zebra",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b8/DarkZebra-TF04-JP-VG.png"
+  },
+  {
+    "Id": "821",
+    "Name": "Giant Germ",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f0/GiantGerm-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "822",
+    "Name": "Nimble Momonga",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b8/NimbleMomonga-TF04-EN-VG.jpg"
+  },
+  {
+    "Id": "823",
+    "Name": "Spear Cretin",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/df/SpearCretin-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "824",
+    "Name": "Shining Angel",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/34/ShiningAngel-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "825",
+    "Name": "Boar Soldier",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/25/BoarSoldier-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "826",
+    "Name": "Mother Grizzly",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/5a/MotherGrizzly-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "827",
+    "Name": "Flying Kamakiri #1",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/74/FlyingKamakiri1-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "828",
+    "Name": "Ceremonial Bell",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e1/CeremonialBell-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "829",
+    "Name": "Sonic Bird",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/d8/SonicBird-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "830",
+    "Name": "Mystic Tomato",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/fe/MysticTomato-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "831",
+    "Name": "Kotodama",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/bf/Kotodama-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "832",
+    "Name": "Obelisk the Tormentor",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/7a/ObelisktheTormentor-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "833",
+    "Name": "Slifer the Sky Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/39/SlifertheSkyDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "834",
+    "Name": "The Winged Dragon of Ra",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/59/TheWingedDragonofRa-TF06-JP-VG.png"
+  },
+  {
+    "Id": "835",
+    "Name": "Flying Fish",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3b/FlyingFish-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "836",
+    "Name": "Amphibian Beast",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/6c/AmphibianBeast-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "837",
+    "Name": "Alligator's Sword Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/2d/AlligatorsSwordDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "838",
+    "Name": "Rocket Warrior",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e1/RocketWarrior-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "839",
+    "Name": "Aqua Serpent",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/9c/AquaSerpent-ROD-EN-VG-card.png"
+  },
+  {
+    "Id": "840",
+    "Name": "The Legendary Fisherman",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/b6/TheLegendaryFisherman-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "841",
+    "Name": "Morphing Jar #2",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/12/MorphingJar2-TF04-JP-VG.png"
+  },
+  {
+    "Id": "842",
+    "Name": "Vorse Raider",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/da/VorseRaider-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "843",
+    "Name": "Flame Champion",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/8b/FlameChampion-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "844",
+    "Name": "Twin-Headed Fire Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a3/TwinHeadedFireDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "845",
+    "Name": "Darkfire Soldier #1",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/05/DarkfireSoldier1-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "846",
+    "Name": "Mr. Volcano",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/dc/MrVolcano-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "847",
+    "Name": "Darkfire Soldier #2",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e3/DarkfireSoldier2-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "848",
+    "Name": "Kiseitai",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/95/Kiseitai-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "849",
+    "Name": "Cyber Falcon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/bc/CyberFalcon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "850",
+    "Name": "Gamma The Magnet Warrior",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/48/GammaTheMagnetWarrior-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "851",
+    "Name": "Flying Kamakiri #2",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/08/FlyingKamakiri2-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "852",
+    "Name": "Harpie's Brother",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/d/dc/Foto_explorador_del_cielo.jpg/revision/latest?cb=20120325202348&path-prefix=es"
+  },
+  {
+    "Id": "853",
+    "Name": "Grand Tiki Elder",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/48/GrandTikiElder-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "854",
+    "Name": "The Masked Beast",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a7/TheMaskedBeast-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "855",
+    "Name": "The Earl of Demise",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/ec/TheEarlofDemise-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "856",
+    "Name": "Boneheimer",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/71/Boneheimer-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "857",
+    "Name": "Flame Dancer",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/4f/FlameDancer-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "858",
+    "Name": "Zombyra the Dark",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/11/ZombyratheDark-TF04-EN-VG.jpg"
+  },
+  {
+    "Id": "859",
+    "Name": "Earthbound Spirit",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/4/49/Foto_esp%C3%ADritu_atado_a_la_tierra.jpg/revision/latest?cb=20120528024717&path-prefix=es"
+  },
+  {
+    "Id": "860",
+    "Name": "Embodiment of Apophis",
+    "Pic": "https://uploads3.yugioh.com/card_images/4870/detail/Embodiment-of-Apophis-FL.jpg?1395693321"
+  },
+  {
+    "Id": "861",
+    "Name": "Ancient Lamp",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AncientLamp-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "862",
+    "Name": "Amazon Chain Master",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/52/AmazonessChainMaster-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "863",
+    "Name": "Thunder Nyan Nyan",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/10/ThunderNyanNyan-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "864",
+    "Name": "Injection Fairy Lily",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/e/e9/InjectionFairyLily-TF04-EN-VG.png"
+  },
+  {
+    "Id": "865",
+    "Name": "Dark Magician",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/79/DarkMagician-TF05-JP-VG-3.png"
+  },
+  {
+    "Id": "866",
+    "Name": "Blue-Eyes Ultimate Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/de/BlueEyesUltimateDragon-TF05-JP-VG-2.png"
+  },
+  {
+    "Id": "867",
+    "Name": "Executor - Makyura",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/9/9f/Foto_makyura_the_destructor.jpg/revision/latest?cb=20120115233124&path-prefix=es"
+  },
+  {
+    "Id": "868",
+    "Name": "Viser Des",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/2b/ViserDes-TF04-JP-VG.png"
+  },
+  {
+    "Id": "869",
+    "Name": "Amazon Sword Woman",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/7c/AmazonessSwordsWoman-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "870",
+    "Name": "Amazon Archers",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a8/AmazonessArchers-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "871",
+    "Name": "Des Volstgalph",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/0/0e/Foto_des_volstgalph.jpg/revision/latest?cb=20120528014734&path-prefix=es"
+  },
+  {
+    "Id": "872",
+    "Name": "Toon Dark Magician Girl",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/d/db/ToonDarkMagicianGirl-GX06-JP-VG.png"
+  },
+  {
+    "Id": "873",
+    "Name": "Gilford the Lightning",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/7/7c/GilfordtheLightning-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "874",
+    "Name": "Mystical Beast Serket",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/2/28/MysticalBeastofSerket-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "875",
+    "Name": "Cyber Harpie",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/0/09/CyberHarpieLady-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "876",
+    "Name": "Lightning Conger",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/81/LightningConger-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "877",
+    "Name": "Exarion Universe",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/2/28/Foto_universo_exarion.jpg/revision/latest?cb=20120203050239&path-prefix=es"
+  },
+  {
+    "Id": "878",
+    "Name": "Legendary Fiend",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/41/LegendaryFiend-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "879",
+    "Name": "Gadget Soldier",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/ca/GadgetSoldier-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "880",
+    "Name": "Melchid the Four-Face Beast",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/63/MelchidtheFourFaceBeast-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "881",
+    "Name": "Nuvia the Wicked",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/3/3c/NuviatheWicked-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "882",
+    "Name": "Masked Beast Des Gardius",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/10/MaskedBeastDesGardius-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "883",
+    "Name": "Valkyrion the Magna Warrior",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/47/ValkyriontheMagnaWarrior-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "884",
+    "Name": "Red-Eyes Black Metal Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/a0/RedEyesBlackMetalDragon-TF04-JP-VG-2.png"
+  },
+  {
+    "Id": "885",
+    "Name": "Red-Eyes B. Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/1a/RedEyesBDragon-TF05-JP-VG-2.jpg"
+  },
+  {
+    "Id": "886",
+    "Name": "Spherous Lady",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/8e/SpherousLady-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "887",
+    "Name": "Blue-Eyes White Dragon",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/8/86/BlueEyesWhiteDragon-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "888",
+    "Name": "Dark Sage",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/e/eb/Foto_sabio_oscuro.jpg/revision/latest?cb=20120203052423&path-prefix=es"
+  },
+  {
+    "Id": "889",
+    "Name": "F.G.D.",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/d/dd/Foto_drag%C3%B3n_de_cinco_cabezas.jpg/revision/latest?cb=20111024035509&path-prefix=es"
+  },
+  {
+    "Id": "890",
+    "Name": "Master of Dragon Soldier",
+    "Pic": "https://static.wikia.nocookie.net/yugiohenespanol/images/e/eb/Foto_caballero_amo_del_drag%C3%B3n.jpg/revision/latest/scale-to-width-down/200?cb=20120308065154&path-prefix=es"
+  },
+  {
+    "Id": "891",
+    "Name": "Messenger of Peace",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/a/ac/MessengerofPeace-TF04-JP-VG.png"
+  },
+  {
+    "Id": "892",
+    "Name": "Darkness Approaches",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/c/c5/DarknessApproaches-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "893",
+    "Name": "Final Destiny",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/5/56/FinalDestiny-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "894",
+    "Name": "Heavy Storm",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/f/f7/HeavyStorm-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "895",
+    "Name": "Monster Reborn",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/41/MonsterReborn-TF04-EN-VG.png"
+  },
+  {
+    "Id": "896",
+    "Name": "Gravedigger Ghoul",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/b/bf/GravediggerGhoul-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "897",
+    "Name": "Torrential Tribute",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/1/18/TorrentialTribute-TF04-JP-VG.png"
+  },
+  {
+    "Id": "898",
+    "Name": "Beckon to Darkness",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/6/60/BeckontotheDark-OW.png"
+  },
+  {
+    "Id": "899",
+    "Name": "Infinite Dismissal",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/9/9a/InfiniteDismissal-TF04-JP-VG.jpg"
+  },
+  {
+    "Id": "900",
+    "Name": "7 Completed",
+    "Pic": "https://static.wikia.nocookie.net/yugioh/images/4/4c/7Completed-TF04-EN-VG.jpg"
+  }
+]
