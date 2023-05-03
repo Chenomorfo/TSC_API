@@ -5,7 +5,6 @@
     bgColor,
     descColor,
   } from "../scripts/CardsConfig";
-  import Card from "./Card.svelte";
 
   export let Details = {
     Id: 0,
@@ -22,7 +21,7 @@
     Summon: "",
   };
 
-  const isGod = Details.Id === 832 || Details.Id === 833 || Details.Id === 834;
+  let isGod = Details.Id === 832 || Details.Id === 833 || Details.Id === 834;
 
   const setBgColor = (Id = 0, type = "") => {
     if (isGod) return GodColor.get(Id);
@@ -36,7 +35,12 @@
   };
 </script>
 
-<Card {isGod} FaceUpTemplate={setBgColor(Details.Id, Details.MonsterType)}>
+<article
+  style="{setBgColor(
+    Details.Id,
+    Details.MonsterType
+  )} color:black; background-size:cover;"
+  class={isGod ? "God" : null}>
   <div style={setDescColor(Details.Id, Details.MonsterType)}>
     <h3>{Details.Name}</h3>
     <h3>{Details.Summon}</h3>
@@ -57,9 +61,20 @@
       ATK/{Details.Defense} | DEF/{Details.Atack}
     </strong>
   </p>
-</Card>
+</article>
 
 <style>
+  article {
+    display: grid;
+    width: calc(59px * 6);
+    height: calc(86px * 6);
+    border: 5px solid rgb(197, 192, 192);
+    border-radius: 10px;
+    grid-template-rows: 40px 1fr 1fr;
+    gap: 5px;
+    place-items: center;
+    padding: 5px;
+  }
   img {
     background-color: green;
     margin: auto;
@@ -89,5 +104,30 @@
 
     display: grid;
     grid-template-rows: 80% 1fr;
+  }
+  .God {
+    position: relative;
+    overflow: hidden;
+  }
+  .God::before {
+    content: "";
+    position: absolute;
+    height: 650px;
+    filter: blur(12px);
+    width: 40px;
+    background-color: white;
+    animation: shiny 3s infinite;
+  }
+
+  @keyframes shiny {
+    0% {
+      transform: rotate(35deg) translate(-320px);
+    }
+    33% {
+      transform: rotate(35deg) translate(320px);
+    }
+    100% {
+      transform: rotate(35deg) translate(320px);
+    }
   }
 </style>
