@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Normal Monster",
+    "description": "Normal Monsters (Japanese: 通つう常じょうモンスター Tsūjō Monsutā), colored yellow, are Main Deck monsters with no monster effects. In the card description box (which contains the effect on Effect Monsters), Normal Monsters include a brief description of its lore. Starting from Starter Deck: Link Strike onwards, all Normal Monsters also include the designation '/Normal' on their Type/Ability lines. Only Monster Cards with 'yellow' backgrounds are Normal Monsters. There are Tuner and Pendulum Normal Monsters, such as 'Tune Warrior' and 'Flash Knight'. Monster Tokens are also Normal Monsters. Non-Effect Fusion, Ritual, Synchro, Xyz and Link Monsters are not Normal Monsters. Some non-Normal Monsters can be treated as Normal Monsters with card effects, most notably Gemini monsters and some Trap Monsters."
+  },
+  {
+    "name": "Effect Monster",
+    "description": "Effect Monsters (Japanese: 効こう果かモンスター Kōka Monsutā) are Monster Cards with an orange color border, and were first introduced in the Vol.3 booster pack. Effect Monsters necessarily have at least one card effect or condition. Effect Monsters are designated by the text '/Effect' on the Type/ability line. Originally, Effect Monsters which also had abilities (such as Toon and Gemini) or were Tuners would display their subtype and not '/Effect'. From Battle Pack 3: Monster League onward, all Effect Monsters now include '/Effect' regardless of their abilities or status as a Tuner monster. Regardless, monsters that have abilities are always Effect Monsters (although this is not the case for Tuner monsters)."
+  },
+  {
+    "name": "Ritual Monster",
+    "description": "Ritual Monsters (Japanese: 儀ぎ式しきモンスター Gishiki Monsutā), colored blue, are monsters that must be Special Summoned with a Ritual Spell Card. Examples include 'Relinquished', 'Magician of Black Chaos', 'Revendread Slayer', 'Nekroz of Trishula', and 'Herald of Ultimateness'. Ritual Monsters are Special Summon-only monsters. This means that they cannot be Normal Summoned or Tribute Summoned from the hand and cannot be Special Summoned from the Graveyard or while banished unless they were first Ritual Summoned (even with a card like 'Fulfillment of the Contract')."
+  }
+]

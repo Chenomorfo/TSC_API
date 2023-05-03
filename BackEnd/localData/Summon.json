@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Divine",
+    "description": "Divine, known as God (神かみ, Kami) in the Japanese version and spelled Devine in the English Yu-Gi-Oh! Dark Duel Stories, is an Alignment. Unlike other Alignments, it gains no advantages or disadvantages when battling other Alignments."
+  },
+  {
+    "name": "Earth",
+    "description": "It is strong against the Thunder Alignment and weak against the Wind Alignment."
+  },
+  {
+    "name": "Pyro",
+    "description": "Fire, known as Flame (炎ほのお, Honō) in the Japanese version and Pyro in the North American version of Yu-Gi-Oh! Dark Duel Stories and the English version of Yu-Gi-Oh! The Sacred Cards, is an Alignment. It is strong against the Forest Alignment and weak against the Water Alignment."
+  },
+  {
+    "name": "Forest",
+    "description": "Forest (森もり, Mori), also known as Wood, is an Alignment. It is strong against the Wind Alignment and weak against the Fire Alignment."
+  },
+  {
+    "name": "Dark",
+    "description": "Black Magic (黒魔くろま, Kuroma), known as Shadow or Dark in the English version of some video games, is an Alignment and one of the four types of Magic users. It is strong against the White Magic Alignment and weak against the Illusion Magic Alignment."
+  },
+  {
+    "name": "Light",
+    "description": "White Magic (白はく魔ま Hakuma), known as Light in the English version of some video games, is an Alignment and one of the four types of Magic users. It is strong against the Demon Magic Alignment and weak against the Black Magic Alignment."
+  },
+  {
+    "name": "Wind",
+    "description": "Wind (風かぜ, Kaze) is an Alignment. It is strong against the Earth Alignment and weak against the Forest Alignment."
+  },
+  {
+    "name": "Aqua",
+    "description": "Water (水みず, Mizu), known as Aqua in the North American version of Yu-Gi-Oh! Dark Duel Stories and the English version of Yu-Gi-Oh! The Sacred Cards is an Alignment. It is strong against the Fire Alignment and weak against the Thunder Alignment."
+  },
+  {
+    "name": "Dream",
+    "description": "Illusion Magic (幻想魔げんそうま, Gensōma), also translated as Illusionist and known as Dreams in some English video games, is one of the four types of Magic Alignments. It is strong against Black Magic and weak against Demon Magic."
+  },
+  {
+    "name": "Thunder",
+    "description": "Thunder is an Alignment. It is strong against the Water Alignment and weak against the Earth Alignment."
+  },
+  {
+    "name": "Fiend",
+    "description": "Demon Magic (悪あく魔ま, Akuma), also translated as Demon or Devil and known as Fiend in the English version of some video games, is an Alignment and one of the four types of Magic users. It is strong against the Illusion Magic Alignment and weak against the White Magic Alignment."
+  }
+]

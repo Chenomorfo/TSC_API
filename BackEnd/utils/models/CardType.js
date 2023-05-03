@@ -1,10 +1,11 @@
 import { DataTypes } from "sequelize";
 import DB from "../dbconn.js";
 
-const CardType = DB.define("CardType", {
+const CardType = DB.define("Card_Type", {
   Id: {
     type: DataTypes.INTEGER,
     primaryKey: true,
+    autoIncrement: true,
   },
   Name: {
     type: DataTypes.STRING,

@@ -1,15 +1,11 @@
 [
   {
-    "name": "Zombie",
-    "descripcion": "Zombie (Japanese: アンデット Andetto, 'Undead') is a Type of monster representing undead beings, including mummies, skeletons, vampires and often ghosts (though sometimes spirits fall under other Types). Later zombies also represented Yokais and biologically infected human beings and animals"
+    "name": "Dragon",
+    "descripcion": "Dragon (ドラゴン Doragon) is a Type of Monster representing mythological serpentine, reptile, avian like beings that are typically fire-breathing creatures that symbolize chaos, brutality, fierceness and intimidation."
   },
   {
     "name": "Plant",
     "descripcion": "Plant (植しょく物ぶつ Shokubutsu) monsters were very overlooked and weak until support for the Type was released in the Crossroads of Chaos, Crimson Crisis and Raging Battle booster sets. A general strategy for Plant Decks is to use cards like 'Gigaplant', 'Lonefire Blossom' and 'Lord Poison' to fill the field with powerful monsters. They can go hand-in-hand with Insect-Types as well with cards like 'Prickle Fairy'."
-  },
-  {
-    "name": "Dragon",
-    "descripcion": "Dragon (ドラゴン Doragon) is a Type of Monster representing mythological serpentine, reptile, avian like beings that are typically fire-breathing creatures that symbolize chaos, brutality, fierceness and intimidation."
   },
   {
     "name": "Dinosaur",
@@ -64,11 +60,23 @@
     "descripcion": "Fish (魚さかな Sakana) is a Type of Monster Card. Fish-Type monsters are used by Reginald Kastle, Ren and Nanami Maguro. In the past it had very little support, but it received support in Tactical Evolution, Phantom Darkness, The Duelist Genesis, Crimson Crisis, and Generation Force."
   },
   {
-    "name": "",
-    "descripcion": ""
+    "name": "Zombie",
+    "descripcion": "Zombie (Japanese: アンデット Andetto, 'Undead') is a Type of monster representing undead beings, including mummies, skeletons, vampires and often ghosts (though sometimes spirits fall under other Types). Later zombies also represented Yokais and biologically infected human beings and animals"
   },
   {
-    "name": "",
-    "descripcion": ""
+    "name": "Sea Serpent",
+    "descripcion": "Sea Serpent (海かい竜りゅう Kairyū, 'Sea Dragon') is a Type of monster representing mythological, dragon-like creatures living in the sea. Currently, 'Atlantean' is the only pure Sea Serpent-Type archetype."
+  },
+  {
+    "name": "Aqua",
+    "descripcion": "Aqua (水みず Mizu 'Water') is a monster Type that has power over water or ice, such as Mobius the Frost Monarch. They may also represent aquatic or amphibious creatures that do not fall under the category of Fish or Sea Serpent, like sea-borne mammals and amphibians. In the same respect, most Aqua-Type monsters are WATER monsters, though Aqua-Type monsters for almost every other Attribute do exist. Aqua-Type effects are varied, but many of the best focus on hand control."
+  },
+  {
+    "name": "Machine",
+    "descripcion": "Machine (機き械かい Kikai) is a Type of monster representing robots, transportation vehicles (including spacecraft) and other mechanical objects. Machine monsters are powerful, and in some cases, fearsome to face in battle. They rely on high ATK as well as a variety of powerful effects, and they have some of the strongest Fusion Monsters in the OCG/TCG, that can be made even more powerful with the ATK-doubling ability of 'Power Bond', 'Cybernetic Zone', or 'Limiter Removal'. Most Machine monsters have DARK, EARTH, or LIGHT Attributes."
+  },
+  {
+    "name": "Fairy",
+    "descripcion": "Fairy (天てん使し Tenshi 'Angel') is a Type of monster often represented by beings such as sprites, angels, or in some occasions, anything that represents organic and mechanical beings of advanced extraterrestrial origin. They're primarily LIGHT, although there are also those of all six common Attributes."
   }
 ]

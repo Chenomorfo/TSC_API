@@ -1,7 +1,7 @@
 import { DataTypes } from "sequelize";
 import DB from "../dbconn.js";
 
-const RaceType = DB.define("RaceType", {
+const RaceType = DB.define("Race_Type", {
   Id: {
     type: DataTypes.INTEGER,
     primaryKey: true,
@@ -17,5 +17,6 @@ const RaceType = DB.define("RaceType", {
   },
   URL: DataTypes.TEXT,
 });
+
 
 export default RaceType;

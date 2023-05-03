@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Magic",
+    "description": "Spell Cards (Japanese: 魔ま法ほうカード Mahō Kādo, or 魔法マジックカード Majikku Kādo 'Magic Card' in early releases of the OCG Series 3 and in the Japanese manga, anime and video games; Japanese symbol text: 魔ま Ma or 魔マジック Majikku), called Magic Card in the early TCG (until the release of Magician's Force ), the English dub of all 5 seasons of Yu-Gi-Oh! (anime), and early English manga and video games, are cards with green-colored borders that have various effects to alter the play of the game. Often, a Spell Card has a single effect to provide a bonus to the user or a weakness to the opponent. Unlike Trap Cards, Spell Cards have the advantage of being able to be played without having to be Set first. Spell Cards, except Quick-Play Spell Cards, may be activated during the same turn it was Set."
+  },
+  {
+    "name": "Trap",
+    "description": "Trap Cards (Japanese: 罠トラップカード Torappu Kādo) are cards with purple-colored borders that have various effects. A Trap Card must first be Set and can only be activated after the current turn has finished. After that, it may be activated during either player's turn. Trap Cards are Spell Speed 2, with the exception of Counter Trap Cards, which are Spell Speed 3."
+  },
+  {
+    "name": "Ritual",
+    "description": "A Ritual Card is a type of card in some older video games that predate or otherwise do not follow the OCG/TCG rules. Ritual Cards are not Ritual Spell Cards; they are considered to be their own distinct card type, rather than a type of Spell Card. Ritual Cards are color coded blue and used to Summon specific monsters, by sacrificing three other monsters from the field. The player does not need to have a copy of the Monster Card they are trying to Summon. If they do have a copy of the Monster Card, it can be Summoned without the use of the Ritual Card."
+  },
+  {
+    "name": "Monster",
+    "description": "Monster Cards (Japanese: モンスターカード Monsutā Kādo) represent monsters that players battle against each other or directly against either player during the Battle Phase. Monsters are the main focus of Yu-Gi-Oh!. Monster Cards are differentiated by their names, Type; Attribute; ATK; DEF; Level (or Rank or Link Rating). Monster Cards can be subdivided into Normal Monsters, Effect Monsters, Ritual Monsters, Fusion Monsters, Synchro Monsters, Xyz Monsters, Pendulum Monsters, Link Monsters and Monster Tokens, each with a distinctive colored card frame to differentiate them."
+  }
+]

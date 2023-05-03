@@ -1,7 +1,7 @@
 import { DataTypes } from "sequelize";
 import DB from "../dbconn.js";
 
-const MonsterType = DB.define("MonsterType", {
+const MonsterType = DB.define("Monster_Type", {
   Id: {
     type: DataTypes.INTEGER,
     primaryKey: true,
@@ -15,5 +15,6 @@ const MonsterType = DB.define("MonsterType", {
     allowNull: false,
   },
 });
+
 
 export default MonsterType;

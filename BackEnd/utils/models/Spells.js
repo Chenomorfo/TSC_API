@@ -19,4 +19,5 @@ const Spell = DB.define("Spell", {
   URL: DataTypes.TEXT,
 });
 
+
 export default Spell;

@@ -23,4 +23,5 @@ const Monster = DB.define("Monster", {
   Defense: DataTypes.INTEGER,
 });
 
+
 export default Monster;

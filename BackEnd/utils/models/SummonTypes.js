@@ -1,7 +1,7 @@
-import { DataTypes } from "sequelize";
 import DB from "../dbconn.js";
+import { DataTypes } from "sequelize";
 
-const SummonType = DB.define("SummonType", {
+const SummonType = DB.define("Summon_Type", {
   Id: {
     type: DataTypes.INTEGER,
     primaryKey: true,
